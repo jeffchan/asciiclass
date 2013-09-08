@@ -1,0 +1,7 @@
+6.885 Lab 1
+Jeff Tzu-Hsien Chan
+
+> db.animals.find({type: 'snake'}, {name: true, _id: false})
+{ "name" : "bob" }
+{ "name" : "bob" }
+{ "name" : "jim" }
