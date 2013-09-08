@@ -1,0 +1,6 @@
+{ "_id" : { "$oid" : "5227e6c34ecfbd49de4f4d2c" }, "name" : "bob", "type" : "snake", "keeper" : "dave", "cage" : "1" }
+{ "_id" : { "$oid" : "5227e6c84ecfbd49de4f4d2d" }, "name" : "joe", "type" : "fish", "length" : "2", "cage" : "1" }
+{ "_id" : { "$oid" : "5227e7c9a1ba77544d4be870" }, "name" : "bob", "type" : "snake", "keeper" : "dave", "cage" : "1" }
+{ "_id" : { "$oid" : "5227e7d7a1ba77544d4be871" }, "name" : "joe", "type" : "fish", "length" : "2", "cage" : "1" }
+{ "_id" : { "$oid" : "5227e7e1a1ba77544d4be872" }, "name" : "cat", "type" : "dog", "weight" : "100", "cage" : "2" }
+{ "_id" : { "$oid" : "5227e7eba1ba77544d4be873" }, "name" : "jim", "type" : "snake", "cage" : "2" }
