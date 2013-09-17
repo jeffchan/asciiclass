@@ -1,0 +1,118 @@
+Jeff Tzu-Hsien Chan
+6.885 Lab 2
+
+Protocol Buffers:
+High level summary
+- use list comprehension to find the first two sums
+- use dictionaries to find the top places and users
+
+Number of deleted tweets: 1554
+Number of replies to another tweet in this dataset: 17
+Top 5 uids: ['0', '1269521828', '392695315', '424808364', '1706901902']
+Top 5 places: ['Turkiye', 'Gambir', 'East Borneo', 'Mississippi', 'Nongsa']
+
+SQLite:
+> SELECT COUNT(*) FROM tweets WHERE is_delete = 1;
+1554
+
+> SELECT COUNT(id) FROM tweets WHERE reply_to IN (SELECT id FROM tweets);
+17
+
+> SELECT uid, COUNT(uid) as count FROM tweets GROUP BY uid ORDER BY count DESC LIMIT 0,5;
+320820996|87
+1106510150|80
+183997528|65
+118947331|61
+206109994|61
+
+> SELECT name, COUNT(id) as count FROM places GROUP BY id ORDER BY count DESC LIMIT 0,5;
+Türkiye|4
+Gambir|3
+East Borneo|3
+Nongsa|2
+Malalayang|2
+
+MongoDB:
+> db.tweets.count({delete: {$exists: true}})
+1554
+
+# Unable to figure out how to find number of replies to another tweet in this dataset
+# because MongoDB does not do joins. Must write some client-side code to simulate.
+# For now I just get the total number of replies.
+> db.tweets.find({in_reply_to_status_id:{$ne:null}}).count()
+2531
+
+> db.tweets.aggregate([{ $project: { uid: '$user.id'}}, { $group: { _id: '$uid', c: {$sum: 1}}}, {$sort: {c: -1}}, {$limit: 5}, {$project: { id: '$uid' }}])
+{
+        "result" : [
+                {
+                        "_id" : null
+                },
+                {
+                        "_id" : 1269521828
+                },
+                {
+                        "_id" : 392695315
+                },
+                {
+                        "_id" : 1706901902
+                },
+                {
+                        "_id" : 424808364
+                }
+        ],
+        "ok" : 1
+}
+
+> db.tweets.aggregate([{$match: {place: {$ne : null}}}, { $project: { place: '$place.id', place: '$place.name'}}, { $group: { _id: '$place', c: {$sum: 1}}}, {$sort: {c: -1}}, {$limit: 5}, {$project: {place: '$place'}}])
+{
+        "result" : [
+                {
+                        "_id" : "Türkiye"
+                },
+                {
+                        "_id" : "Gambir"
+                },
+                {
+                        "_id" : "East Borneo"
+                },
+                {
+                        "_id" : "Malalayang"
+                },
+                {
+                        "_id" : "Mississippi"
+                }
+        ],
+        "ok" : 1
+}
+
+Reflection:
+1. The schema file and protocol buffer file both are able to describe relations.
+   The main differences is that the protocol buffer file is more succinct and
+   and allow for more flexible definition of data types such as enums. It also
+   provides a way to nest the message definitions.
+
+2. What are all the places referenced in the tweets in the dataset, comma-separated?
+
+3. What are the places associated with each tweet?
+
+4. What are the top five places by the number of tweets?
+
+5. The deleted fields because they are a special case.
+
+6. The protocol buffer uses the most LOC of the three methods examined. The benefit
+   with the protocol buffer is that it is lightweight and platform neutral. The
+   least LOC required is SQL. However, there is an overhead of defining the schema
+   first as well as the running database itself. Somewhere in the middle is MongoDB.
+   MongoDB does not require a pre-defined schema but still has an overhead of the
+   database process. Because it is NoSQL, queries that require traditional SQL joins
+   take more effort, but not as much as protocol buffer.
+
+7. Ease of updates: Mongo has no predefined schema so it's easier to update. Protocol
+   buffers and SQL both require a schema that takes more effort to change.
+   Scalability: The database-based systems do not scale as well as protocol buffers.
+   Note this is not a fair comparison because protocol buffer is not a system.
+   Portability: Protocol buffer is platform netural so it's the most portable. The
+   other two approaches require database setup and learning a new syntax/language.
+
+8. This lab took me about 5 hours. (mainly because Mongo was a pain)
