@@ -24,6 +24,16 @@ body,tr {
 body {
   padding-top: 45px;
 }
+body tr.current {
+  border: 2px solid rgb(53, 150, 189);
+}
+body tr td.nextclass {
+  font-size: 18px;
+  text-align: center;
+  background: rgb(53, 150, 189);
+  border: 2px solid rgb(53, 150, 189);
+  color: white;
+}
 
 a[name] {
   padding-top: 55px;
@@ -58,11 +68,13 @@ a[name] {
                 }
             } while (holiday);
             var now = new Date();
+            spans[i].innerHTML = dayString;
             if (lastClassWasBefore && curClass.getTime() > new Date()) { // this is the next class
-                spans[i].innerHTML = "<a name='schedule'></a>" + dayString + "<p> <b>(This is the next class!)</b>";
+                var tr = $(spans[i]).parent().parent().parent();
+                tr.addClass("current");
+                tr.before("<tr><td class='nextclass' colspan=5><a name='schedule'></a>Next Class!</td></tr>");
                 lastClassWasBefore = false;
-            } else 
-                spans[i].innerHTML = dayString;
+            }
             curClass = new Date(curClass.getTime() + (24 * 60 * 60 * gap * 1000));
             if (gap == 5) { gap = 2; } else { gap = 5; }
         }
@@ -70,8 +82,7 @@ a[name] {
 
     function page_onload() {
         update_dates();
-    }
-</script>
+    }</script>
 
       
 <title>6.885: From ASCII to Answers:  Advanced Topics in Data Processing</title>
@@ -148,7 +159,6 @@ a[name] {
 Details about the final project will be provided a few weeks into class.
 <br><br>
 For homeworks, you allowed 5 penalty free late days to use throughout the semester.  One late day equals one 24 hour period after the due date of the assignment.  Once you have used your late days, there will be a 20% penalty for each day an assignment is late.  You do not need to explictly declare the use of late days;  we will assign them to you in a way that is optimal for your grade when different assignments are worth different numbers of points.   Late days may not be used for the final project.
-
 </div>
 </div>
 
@@ -319,8 +329,9 @@ Discuss the class on <a href="https://piazza.com/class/hl6u4m7ft8n373">Piazza</a
       </td>
       <td >
 	<p >
-    <span > 
-	  <span >sed/awk, wrangler on  dataset
+    <span >
+        <span > Notes: <a href="https://github.com/mitdbg/asciiclass/tree/master/lectures/lec3">github</a> <br>
+	  <span >Lab 3 (to be posted on Tuesday) will involve sed/awk and Wrangling a few datasets
 	  </span>
 	</p>
       </td>
@@ -346,12 +357,12 @@ Discuss the class on <a href="https://piazza.com/class/hl6u4m7ft8n373">Piazza</a
       <td >
 	<p >
 	  <span >
-	    <a  href="http://repository.upenn.edu/cgi/viewcontent.cgi?article=1034&amp;context=db_research">Crossing The Structure Chasm
+	    <a  href="https://cs.uwaterloo.ca/~ilyas/papers/StonebrakerCIDR2013.pdf">Data Curation at Scale: The Data Tamer System
 	    </a>
 	  </span>
 	</p>
 	<p >
-	  <span >Finding related tables.
+	  <span >Optionally, you may want to read: <a href="http://i.stanford.edu/~anishds/publications/sigmod12/modi255i-dassarma.pdf">Finding Related Tables</a> and <a href="http://repository.upenn.edu/cgi/viewcontent.cgi?article=1034&context=db_research">Crossing the Structure Chasm</a>.
 	  </span>
 	</p>
       </td>
@@ -359,7 +370,8 @@ Discuss the class on <a href="https://piazza.com/class/hl6u4m7ft8n373">Piazza</a
 	<p >
 	  <span >
         Due: <a href="https://github.com/mitdbg/asciiclass/tree/master/labs/lab2">Lab 2</a><br>
-Try data integration tools (e.g., data tamer); &nbsp;Google Knowledge Graph
+        Out: <a href="https://github.com/mitdbg/asciiclass/tree/master/labs/lab3">Lab 3</a><br>
+<!--Try data integration tools (e.g., data tamer); &nbsp;Google Knowledge Graph -->
 	  </span>
 	</p>
       </td>
@@ -384,7 +396,7 @@ Try data integration tools (e.g., data tamer); &nbsp;Google Knowledge Graph
       </td>
       <td >
 	<p >
-	  <span >Luna Dong Paper
+	  <span >Read <a href="http://www.vldb.org/pvldb/vol6/p97-li.pdf">Truth Finding on the Deep Web</a>
 	  </span>
 	</p>
 	<p >
@@ -394,7 +406,8 @@ Try data integration tools (e.g., data tamer); &nbsp;Google Knowledge Graph
       </td>
       <td >
 	<p >
-	  <span >Dong Flight Data or Geospatial example or event data -- duplicate and error detection
+	  <span >        Due: <a href="https://github.com/mitdbg/asciiclass/tree/master/labs/lab3">Lab 3</a>
+
 	  </span>
 	</p>
       </td>
@@ -434,10 +447,10 @@ Try data integration tools (e.g., data tamer); &nbsp;Google Knowledge Graph
       <td >
 	<p >
 	  <span >Try McCallum code:
-	  </span>
-	  <span >
+     
 	    <a  href="http://people.cs.umass.edu/~mccallum/code.html">http://people.cs.umass.edu/~mccallum/code.html
 	    </a>
+       Due: <a href="final-proj.html">Final Project Teams</a>
 	  </span>
 	  <span >&nbsp;
 	  </span>
