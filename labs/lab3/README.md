@@ -2,7 +2,9 @@
 
 *Assigned: Tuesday, September 17*
 
-*Due: Thursday, September 19th, 12:59 PM (just before class)*
+*Due: Tuesday, September 24th, 12:59 PM (just before class)*
+
+*Update, September 19th: Removed "However, there is no explicit deliverable in this lab" statement from sed/awk section, since we want you to turn in your scripts.*
 
 In this lab, you will use various types of tools -- from command line tools like `sed` and `awk` to high-level tools like Data Wrangler -- to perform data parsing and extraction from data encoded into a text file.  The goal of this lab is simply to gain experience with these tools and compare and contrast their usage.
 
@@ -72,13 +74,13 @@ The `synsets.txt` file is too large to load into the Wrangler GUI, so you need t
 
 Use the tool to generate output as follows, i.e., each line in the output contains a country, a year, and the position of the county in that year (if within top 4).
 
-        Brazil, 1962, 1
-        Brazil, 1970, 1
-        Brazil, 1994, 1
-        Brazil, 2002, 1
-        Brazil, 1958, 1
-        Brazil, 1998, 2
-        Brazil, 1950, 2
+        BRA, 1962, 1
+        BRA, 1970, 1
+        BRA, 1994, 1
+        BRA, 2002, 1
+        BRA, 1958, 1
+        BRA, 1998, 2
+        BRA, 1950, 2
         ...
 
 It may help to 
@@ -100,8 +102,8 @@ The set of three UNIX tools, `sed`, `awk`, and `grep`, can be very useful for qu
 (and have been around since the inception of UNIX). 
 In conjunction with other unix utilities like `sort`, `uniq`, `tail`, `head`, etc., you can accomplish many simple data parsing and cleaning 
 tasks with these tools. 
-You are encouraged to play with these tools and familiarize yourselves with the basic usage of these tools. However, there is no explicit 
-deliverable in this lab.
+You are encouraged to play with these tools and familiarize yourselves with the basic usage of these tools.
+
 
 As an example, the following sequence of commands can be used to answer the third question from the [lab 2](../lab2/) ("Find the five uids that have tweeted the most").
 

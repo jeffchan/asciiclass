@@ -27,12 +27,17 @@ body {
 body tr.current {
   border: 2px solid rgb(53, 150, 189);
 }
-body tr td.nextclass {
+
+ body tr td.nextclass {
+  padding: 0;
+  border: 2px solid rgb(53, 150, 189);
+}
+body tr td.nextclass div {
   font-size: 18px;
   text-align: center;
   background: rgb(53, 150, 189);
-  border: 2px solid rgb(53, 150, 189);
   color: white;
+  padding: 3px;
 }
 
 a[name] {
@@ -46,7 +51,7 @@ a[name] {
 
 <script type="text/javascript">
     function update_dates() {
-        var holidays = ['10/15/13','11/28/13'];
+        var holidays = [ '10/15/13','11/28/13'];
         var curClass = new Date(2013,8,5,15,0,0,0);
         var lastClass = new Date(2013,11,11,15,0,0,0);        
         var gap = 5;
@@ -72,7 +77,7 @@ a[name] {
             if (lastClassWasBefore && curClass.getTime() > new Date()) { // this is the next class
                 var tr = $(spans[i]).parent().parent().parent();
                 tr.addClass("current");
-                tr.before("<tr><td class='nextclass' colspan=5><a name='schedule'></a>Next Class!</td></tr>");
+                tr.before("<tr><td class='nextclass' colspan=5><div><a name='schedule'></a>Next Class!</div></td></tr>");
                 lastClassWasBefore = false;
             }
             curClass = new Date(curClass.getTime() + (24 * 60 * 60 * gap * 1000));
@@ -384,7 +389,7 @@ Discuss the class on <a href="https://piazza.com/class/hl6u4m7ft8n373">Piazza</a
         </td>
       <td >
 	<p >
-    <span >L5: Data Cleaning and Integration #4 (Adam Marcus)
+    <span >L5: Data Cleaning and Integration #3 (Adam Marcus)
 	  </span>
 	</p>
       </td>
@@ -399,17 +404,8 @@ Discuss the class on <a href="https://piazza.com/class/hl6u4m7ft8n373">Piazza</a
 	  <span >Read <a href="http://www.vldb.org/pvldb/vol6/p97-li.pdf">Truth Finding on the Deep Web</a>
 	  </span>
 	</p>
-	<p >
-	  <span >
-	  </span>
-	</p>
       </td>
       <td >
-	<p >
-	  <span >        Due: <a href="https://github.com/mitdbg/asciiclass/tree/master/labs/lab3">Lab 3</a>
-
-	  </span>
-	</p>
       </td>
     </tr>
      <tr >
@@ -420,41 +416,30 @@ Discuss the class on <a href="https://piazza.com/class/hl6u4m7ft8n373">Piazza</a
         </td>
       <td >
 	<p >
-	  <span >L6: Data Cleaning and Integration #5
+	  <span >L6: Data Cleaning and Integration #4
 	  </span>
 	</p>
       </td>
       <td >
 	<p >
-	  <span >Statistical Approaches
+	  <span >Data Integration Techniques -- building a simple integration system
 	  </span>
 	</p>
       </td>
       <td >
 	<p >
-	  <span >Andrew McCallum Work
+	  <span ><a href="http://www.umiacs.umd.edu/~getoor/Tutorials/ER_VLDB2012.pdf">Data Integration Tutorial Slides</a> Getoor and Machanavajjhala, VLDB 2012. 
 	  </span>
 	</p>
+      </td>
+      <td >
 	<p >
 	  <span >
-	    <a  href="http://turing.cs.washington.edu/papers/acl08.pdf">TextRunner
-	    </a>
+        Due: <a href="https://github.com/mitdbg/asciiclass/tree/master/labs/lab3">Lab 3</a> <br>
+        Due: <a href="final-proj.html">Final Project Teams</a>
 	  </span>
-	  <span >&nbsp;
-	  </span>
-	</p>
-      </td>
-      <td >
-	<p >
-	  <span >Try McCallum code:
-     
-	    <a  href="http://people.cs.umass.edu/~mccallum/code.html">http://people.cs.umass.edu/~mccallum/code.html
-	    </a>
-       Due: <a href="final-proj.html">Final Project Teams</a>
-	  </span>
-	  <span >&nbsp;
-	  </span>
-	</p>
+
+        </p>
       </td>
     </tr>
      <tr >
@@ -478,10 +463,12 @@ Discuss the class on <a href="https://piazza.com/class/hl6u4m7ft8n373">Piazza</a
       <td >
 	<p >
 	  <span >
-	    <a  href="http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/archive/mapreduce-osdi04.pdf">MapReduce paper
+                Read:  <a href="http://cacm.acm.org/magazines/2010/1/55744-mapreduce-a-flexible-data-processing-tool/fulltext">MapReduce: A Flexible Data Processing Tool</a> by Dean and Ghemawat, and <a href="http://cacm.acm.org/blogs/blog-cacm/149074-possible-hadoop-trajectories/fulltext">Possible Hadoop Trajectories</a> by Stonebraker and Kepner.
+<p>
+        If you are not familiar with MapReduce you should read:
+	    <a  href="http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/archive/mapreduce-osdi04.pdf">the original MapReduce paper
 	    </a>
-	  </span>
-	  <span >, Elastic MapReduce/Hadoop documentation.
+        (We will not cover this paper in detail so you do not need to read it again if you understand the basic MapReduce model.)
 	  </span>
 	</p>
       </td>
