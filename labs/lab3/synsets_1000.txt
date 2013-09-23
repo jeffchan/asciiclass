@@ -1,0 +1,1000 @@
+1,'hood,(slang) a neighborhood
+2,1530s,the decade from 1530 to 1539
+3,15_May_Organization,a terrorist organization formed in 1979 by a faction of the Popular Front for the Liberation of Palestine but disbanded in the 1980s when key members left to join a faction of al-Fatah
+4,1750s,the decade from 1750 to 1759
+5,1760s,the decade from 1760 to 1769
+6,1770s,the decade from 1770 to 1779
+7,1780s,the decade from 1780 to 1789
+8,1790s,the decade from 1790 to 1799
+9,18-karat_gold,an alloy that contains 75 per cent gold
+10,1820s,the decade from 1820 to 1829
+11,1830s,the decade from 1830 to 1839
+12,1840s,the decade from 1840 to 1849
+13,1850s,the decade from 1850 to 1859
+14,1860s,the decade from 1860 to 1869
+15,1870s,the decade from 1870 to 1879
+16,1900s,the decade from 1900 to 1909
+17,22-karat_gold,an alloy that contains 87 per cent gold
+18,24-karat_gold pure_gold,100 per cent gold
+19,24/7,uptime is 24 hours a day 7 days a week
+20,401-k_plan 401-k,a retirement savings plan that is funded by employee contributions and (often) matching contributions from the employer; contributions are made from your salary before taxes and the funds grow tax-free until they are withdrawn at which point they can be converted into and IRA; funds can be transfered if you change employers and you can (to some extent) manage the investments yourself
+21,9/11 9-11 September_11 Sept._11 Sep_11,the day in 2001 when Arab suicide bombers hijacked United States airliners and used them as bombs
+22,angstrom angstrom_unit A,a metric unit of length equal to one ten billionth of a meter (or 0.0001 micron); used to specify wavelengths of electromagnetic radiation
+23,vitamin_A antiophthalmic_factor axerophthol A,any of several fat-soluble vitamins essential for normal vision; prevents night blindness or inflammation or dryness of the eyes
+24,deoxyadenosine_monophosphate A,one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)
+25,adenine A,(biochemistry) purine base found in DNA and RNA; pairs with thymine in DNA and with uracil in RNA
+26,ampere amp A,the basic unit of electric current adopted under the Systeme International d'Unites; "a typical household circuit carries 15 to 50 amps"
+27,A letter_a,the 1st letter of the Roman alphabet
+28,A type_A group_A,the blood group whose red cells carry the A antigen
+29,A'man,the Israeli military intelligence which produces comprehensive national intelligence briefings for the prime minister and the cabinet
+30,A-horizon A_horizon,the top layer of a soil profile; usually contains humus
+31,A-line,women's clothing that has a fitted top and a flared skirt that is widest at the hemline; "it is called the A-line because the effect resembles the capital letter A"
+32,A-list,a list of names of specially favored people; "the boss gave me his A-list of people we should try to recruit"
+33,A-team,a group of elite soldiers or a leadership group of advisors or workers in an organization
+34,Bachelor_of_Arts BA Artium_Baccalaurens AB,a bachelor's degree in arts and sciences
+35,Ab Av,the eleventh month of the civil year; the fifth month of the ecclesiastical year in the Jewish calendar (in July and August)
+36,abdominal abdominal_muscle ab,the muscles of the abdomen
+37,AB type_AB group_AB,the blood group whose red cells carry both the A and B antigens
+38,ABO_antibodies,blood type antibodies
+39,ABO_blood_group_system ABO_system ABO_group,a classification system for the antigens of human blood; used in blood transfusion therapy; four groups are A and B and AB and O
+40,ACE_inhibitor angiotensin-converting_enzyme_inhibitor,antihypertensive drug that blocks the formation of angiotensin in the kidney  leading to relaxation of the arteries; promotes the excretion of salt and water by inhibiting the activity of the angiotensin converting enzyme; also used to treat congestive heart failure
+41,ADA-SCID,SCID resulting from mutation of a gene that codes for adenosine deaminase
+42,AIDS acquired_immune_deficiency_syndrome,a serious (often fatal) disease of the immune system transmitted through blood products especially by sexual contact or contaminated needles
+43,Algol,second brightest star in Perseus; first known eclipsing binary
+44,ALGOL,(from a combination of ALGOrithmic and Language); a programming language used to express computer programs as algorithms
+45,AND_circuit AND_gate,a circuit in a computer that fires only when all of its inputs fire
+46,armored_personnel_carrier armoured_personnel_carrier APC,(military) an armored vehicle (usually equipped with treads) that is used to transport infantry
+47,APC,a drug combination found in some over-the-counter headache remedies (aspirin and phenacetin and caffeine)
+48,ASCII_character,any member of the standard code for representing characters by binary numbers
+49,ASCII_character_set,(computer science) 128 characters that make up the ASCII coding scheme; "the ASCII character set is the most universal character coding set"
+50,ASCII_text_file,a text file that contains only ASCII characters without special formatting
+51,ASL American_sign_language,the sign language used in the United States
+52,AWOL,one who is away or absent without leave
+53,A_battery,battery used to heat the filaments of a vacuum tube
+54,A_level,the advanced level of a subject taken in school (usually two years after O level)
+55,Aachen Aken Aix-la-Chapelle,a city in western Germany near the Dutch and Belgian borders; formerly it was Charlemagne's northern capital
+56,Aalborg Alborg,a city and port in northern Jutland
+57,Aalto Alvar_Aalto Hugo_Alvar_Henrik_Aalto,Finnish architect and designer of furniture (1898-1976)
+58,Aare Aar Aare_River,a river in north central Switzerland that runs northeast into the Rhine
+59,Aaron Henry_Louis_Aaron Hank_Aaron,United States professional baseball player who hit more home runs than Babe Ruth (born in 1934)
+60,Aaron,(Old Testament) elder brother of Moses and first high priest of the Israelites; created the golden calf
+61,Abadan,a port city in southwestern Iran
+62,Abbe_condenser,a condenser having 2 or 3 lenses with wide aperture for use in microscopes
+63,abecedarian,a novice learning the rudiments of some subject
+64,Abecedarian,a 16th century sect of Anabaptists centered in Germany who had an absolute disdain for human knowledge
+65,Abel Niels_Abel Niels_Henrik_Abel,Norwegian mathematician (1802-1829)
+66,Abel,(Old Testament) Cain and Abel were the first children of Adam and Eve born after the Fall of Man; Abel was killed by Cain
+67,Abelard Peter_Abelard Pierre_Abelard,French philosopher and theologian; lover of Heloise (1079-1142)
+68,Abelian_group commutative_group,a group that satisfies the commutative law
+69,Abelmoschus genus_Abelmoschus,genus of tropical coarse herbs having large lobed leaves and often yellow flowers
+70,Aberdare,a mining town in southern Wales
+71,Aberdeen,a town in western Washington
+72,Aberdeen,a town in northeastern South Dakota
+73,Aberdeen,a town in northeastern Maryland
+74,Aberdeen,a city in northeastern Scotland on the North Sea
+75,Aberdeen_Angus Angus black_Angus,black hornless breed from Scotland
+76,Abidjan,city recognized by the United States as the capital of the Ivory Coast; largest city of the Ivory Coast
+77,Abies genus_Abies,true firs
+78,Abilene,a city in central Texas
+79,Abilene,a town in central Kansas west of Topeka; home of Dwight D. Eisenhower
+80,Abkhaz Abkhas,a member of the Circassian people living east of the Black Sea
+81,Abkhaz Abkhazia,an autonomous province of Georgia on the Black Sea; a strong independence movement has resulted in much instability
+82,Abkhazian Abkhasian,a Circassian language spoken by the Abkhaz
+83,Abnaki,a member of the Algonquian people of Maine and southern Quebec
+84,Abnaki,the Algonquian language spoken by the Abnaki and Penobscot
+85,Abney_level,a surveying instrument consisting of a spirit level and a sighting tube; used to measure the angle of inclination of a line from the observer to the target
+86,aborigine autochthon,the earliest known inhabitants of a region
+87,Aborigine Abo Aboriginal native_Australian Australian_Aborigine,a dark-skinned member of a race of people living in Australia when Europeans arrived
+88,Abraham Ibrahim,the first of the Old Testament patriarchs and the father of Isaac; according to Genesis  God promised to give Abraham's family (the Hebrews) the land of Canaan (the Promised Land); God tested Abraham by asking him to sacrifice his son; "Judaism  Christianity  and Islam each has a special claim on Abraham"
+89,Abraham's_bosom bosom_of_Abraham,the place where the just enjoy the peace of heaven after death
+90,Abramis genus_Abramis,European fishes
+91,Abrocoma genus_Abrocoma,abrocomes
+92,Abronia genus_Abronia,genus of western North American herbs having showy flowers
+93,Abruzzi Abruzzi_e_Molise,a mountainous region of central Italy on the Adriatic
+94,Abstract_Expressionism action_painting,a New York school of painting characterized by freely created abstractions; the first important school of American painting to develop independently of European styles
+95,Abu_Dhabi United_Arab_Emirates's_capital,a sheikhdom of eastern Arabia and capital of the United Arab Emirates
+96,Abu_Hafs_al-Masri_Brigades,a terrorist group that has worked with Al Qaeda; claimed responsibility for attacks in Iraq and Turkey
+97,Abu_Sayyaf Bearer_of_the_Sword,a small gang of terrorist thugs claiming to seek a separate Islamic state for the Muslim minority in the Philippines; uses bombing and assassination and extortion and kidnapping; "In 2001 Abu Sayyaf kidnapped twenty people and beheaded one of the American captives"
+98,Abudefduf genus_Abudefduf,damsel fishes
+99,Abuja capital_of_Nigeria Nigerian_capital,capital of Nigeria in the center of the country
+100,Abukir Abukir_Bay,a bay on the Mediterranean Sea in northern Egypt
+101,Abutilon genus_Abutilon,herbs or shrubs or small trees: flowering maple; parlor maple; Indian mallow
+102,Abydos,an ancient Greek colony on the Asiatic side of the Dardanelles; scene of the legend of Hero and Leander
+103,Abyssinian Abyssinian_cat,a small slender short-haired breed of African origin having brownish fur with a reddish undercoat
+104,Abyssinian_banana Ethiopian_banana Ensete_ventricosum Musa_ensete,large evergreen arborescent herb having huge paddle-shaped leaves and bearing inedible fruit that resemble bananas but edible young flower shoots; sometimes placed in genus Musa
+105,Academy_Award Oscar,an annual award by the Academy of Motion Picture Arts and Sciences for achievements in motion picture production and performance
+106,Academy_of_Motion_Picture_Arts_and_Sciences,an academy that gives annual awards for achievements in motion picture production and performance
+107,Academy_of_Television_Arts_and_Sciences,an academy that gives annual awards for outstanding achievements in television
+108,Acadia,the French-speaking part of the Canadian Maritime Provinces
+109,Acadia_National_Park,a national park in Maine showing marine erosion and glaciation; includes seashore and also the highest point on the Atlantic coast
+110,Acadian,an early French settler in the Maritimes
+111,Acalypha genus_Acalypha,a genus of herbs and shrubs belonging to the family Euphorbiaceae
+112,Acanthaceae family_Acanthaceae acanthus_family,widely distributed herbs and shrubs and trees; sometimes placed in the order Scrophulariales
+113,Acanthisitta genus_Acanthisitta,a genus of Xenicidae
+114,Acanthocephala phylum_Acanthocephala,phylum or class of elongated wormlike parasites that live in the intestines of vertebrates: spiny-headed worms
+115,Acanthocereus genus_Acanthocereus,mostly trailing cacti having nocturnal white flowers; tropical America and Caribbean region
+116,Acanthocybium genus_Acanthocybium,wahoos
+117,Acanthophis genus_Acanthophis,Australian elapid snakes
+118,Acanthopterygii superorder_Acanthopterygii,teleost fishes having fins with sharp bony rays
+119,Acanthoscelides genus_Acanthoscelides,a genus of Bruchidae
+120,Acanthuridae family_Acanthuridae,surgeonfishes
+121,Acanthurus genus_Acanthurus,type genus of the Acanthuridae: doctorfishes
+122,Acapulco Acapulco_de_Juarez,a port and fashionable resort city on the Pacific coast of southern Mexico; known for beaches and water sports (including cliff diving)
+123,Acapulco_gold Mexican_green,a particularly potent variety of marijuana
+124,Acaridae family_Acaridae,mites
+125,Acarina order_Acarina,mites and ticks
+126,Accipiter genus_Accipiter,type genus of the family Accipitridae
+127,Accipitridae family_Accipitridae,hawks; Old World vultures; kites; harriers; eagles
+128,Accipitriformes order_Accipitriformes,in some classifications an alternative name for the Falconiformes
+129,Accra capital_of_Ghana,the capital and largest city of Ghana with a deep-water port
+130,Acer genus_Acer,type genus of the Aceraceae; trees or shrubs having winged fruit
+131,Aceraceae family_Aceraceae maple_family,a family of trees and shrubs of order Sapindales including the maples
+132,Achaean Achaian,a member of one of the four divisions of the prehistoric Greeks
+133,Acheron River_Acheron,(Greek mythology) a river in Hades across which the souls of the dead were carried by Charon
+134,Acherontia genus_Acherontia,death's-head moth
+135,Acheson Dean_Acheson Dean_Gooderham_Acheson,United States statesman who promoted the Marshall Plan and helped establish NATO (1893-1971)
+136,Acheson_process,an industrial process for making graphite by heating a mixture of coke and clay
+137,Acheta genus_Acheta,common house and field crickets
+138,Achilles,a mythical Greek hero of the Iliad; a foremost Greek warrior at the siege of Troy; when he was a baby his mother tried to make him immortal by bathing him in a magical river but the heel by which she held him remained vulnerable--his `Achilles' heel'
+139,Achilles'_heel,a seemingly small but actual mortal weakness
+140,Achilles_tendon tendon_of_Achilles,a large tendon that runs from the heel to the calf
+141,Achoerodus genus_Achoerodus,a genus of Labridae
+142,Achomawi,a member of a North American Indian people of northern California
+143,Achomawi,the Shastan language spoken by the Achomawi
+144,Achras genus_Achras,tropical trees having papery leaves and large fruit
+145,Acinonyx genus_Acinonyx,cheetahs
+146,Acinos genus_Acinos,plants closely allied to the genera Satureja and Calamintha
+147,Acipenser genus_Acipenser,type genus of the Acipenseridae: sturgeons
+148,Acipenseridae family_Acipenseridae,sturgeons
+149,Acnidosporidia subclass_Acnidosporidia,a subclass of Sporozoa
+150,Acocanthera genus_Acocanthera Acokanthera genus_Acokanthera,small genus of trees and shrubs containing strongly toxic cardiac glycosides; Arabia to Africa
+151,Aconcagua,the highest mountain in the western hemisphere; located in the Andes in western Argentina (22 834 feet high)
+152,Aconitum genus_Aconitum,genus of poisonous plants of temperate regions of northern hemisphere with a vaulted and enlarged petal
+153,Acoraceae subfamily_Acoraceae,used in some classifications for the genus Acorus which is usually assigned to Araceae
+154,Acorus genus_Acorus,sweet flags; sometimes placed in subfamily Acoraceae
+155,Acrasiomycetes class_Acrasiomycetes,cellular slime molds; in some classifications placed in kingdom Protoctista
+156,acre,a unit of area (4840 square yards) used in English-speaking countries
+157,Acre,a territory of western Brazil bordering on Bolivia and Peru
+158,Acre Akko Akka Accho,a town and port in northwestern Israel in the eastern Mediterranean
+159,Acrididae family_Acrididae Locustidae family_Locustidae,short-horned grasshoppers; true locusts
+160,Acridotheres genus_Acridotheres,mynas
+161,Acris genus_Acris,cricket frogs
+162,Acrobates genus_Acrobates,a genus of Phalangeridae
+163,Acrocarpus genus_Acrocarpus,small genus of trees of Indonesia and Malaysia
+164,Acrocephalus genus_Acrocephalus,a genus of Sylviidae
+165,Acroclinium genus_Acroclinium,genus of herbs and shrubs of Australia and South Africa: everlasting flower; most species usually placed in genus Helipterum
+166,Acrocomia genus_Acrocomia,Central and South American feather palms
+167,Acropora genus_Acropora,coelenterate genus of order Madreporaria  including staghorn corals
+168,Acrostichum genus_Acrostichum,in some classification systems placed in family Polypodiaceae
+169,Actaea genus_Actaea,baneberry
+170,Actias genus_Actias,luna moths
+171,Actifed,trade name for a drug containing an antihistamine and a decongestant; used to treat upper respiratory conditions and minor allergies
+172,Actinia genus_Actinia,a genus of sea anemone common in rock pools
+173,actinia actinian actiniarian,any sea anemone or related animal
+174,Actiniaria order_Actiniaria Actinaria order_Actinaria,sea anemones
+175,Actinidia genus_Actinidia,small Asiatic woody vine bearing many-seeded fruit
+176,Actinidiaceae family_Actinidiaceae,tropical trees or shrubs or woody vines
+177,Actiniopteris genus_Actiniopteris,terrestrial ferns of tropical Asia and Africa
+178,Actinomeris genus_Actinomeris,used in some classification systems for plants now included in genus Verbesina
+179,Actinomycetaceae family_Actinomycetaceae,filamentous anaerobic bacteria
+180,Actinomycetales order_Actinomycetales,filamentous or rod-shaped bacteria
+181,Actinomyxidia order_Actinomyxidia,parasites of worms
+182,Actinopoda subclass_Actinopoda,heliozoans; radiolarians
+183,Actitis genus_Actitis,a genus of Scolopacidae
+184,Actium,an ancient town on a promontory in western Greece
+185,Actium,the naval battle in which Antony and Cleopatra were defeated by Octavian's fleet under Agrippa in 31 BC
+186,Acts_of_the_Apostles Acts,a New Testament book describing the development of the early church from Christ's Ascension to Paul's sojourn at Rome
+187,Adad,Babylonian god of storms and wind
+188,Antalya Adalia,a port city in southwestern Turkey on the Gulf of Antalya
+189,Adalia genus_Adalia,genus of ladybugs
+190,Adam,(Old Testament) in Judeo-Christian mythology; the first man and the husband of Eve and the progenitor of the human race
+191,Adam Robert_Adam,Scottish architect who designed many public buildings in England and Scotland (1728-1792)
+192,Adam ecstasy XTC go disco_biscuit cristal X hug_drug,street names for methylenedioxymethamphetamine
+193,Adam's_Peak Samanala,a mountain peak in south central Sri Lanka (7 360 feet high)
+194,Adam's_needle Adam's_needle-and-thread spoonleaf_yucca needle_palm Yucca_filamentosa,yucca with long stiff leaves having filamentlike appendages
+195,Adams Sam_Adams Samuel_Adams,American Revolutionary leader and patriot; an organizer of the Boston Tea Party and signer of the Declaration of Independence (1722-1803)
+196,Adams John_Quincy_Adams President_Adams President_John_Quincy_Adams,6th President of the United States; son of John Adams (1767-1848)
+197,Adams John_Adams President_Adams President_John_Adams,2nd President of the United States (1735-1826)
+198,Adams Mount_Adams,a mountain peak in southwestern Washington in the Cascade Range (12 307 feet high)
+199,Adana Seyhan,a city in southern Turkey on the Seyhan River
+200,Adansonia genus_Adansonia,baobab; cream-of-tartar tree
+201,Adapa,a Babylonian demigod or first man (sometimes identified with Adam)
+202,Adapid Adapid_group,extinct small mostly diurnal lower primates that fed on leaves and fruit; abundant in North America and Europe 30 to 50 million years ago; their descendents probably include the lemurs; some authorities consider them ancestral to anthropoids but others consider them only cousins
+203,Adar,the sixth month of the civil year; the twelfth month of the ecclesiastic year in the Jewish calendar (in February and March)
+204,Addis_Ababa New_Flower capital_of_Ethiopia,the capital of Ethiopia and the country's largest city; located in central Ethiopia
+205,Addison's_disease Addison's_syndrome hypoadrenalism hypoadrenocorticism,a glandular disorder caused by failure of function of the cortex of the adrenal gland and marked by anemia and prostration with brownish skin
+206,Additions_to_Esther,an Apocryphal book consisting of text added to the Book of Esther
+207,Adelaide,the state capital of South Australia
+208,Adelges genus_Adelges,type genus of the Adelgidae: plant lice
+209,Adelgidae family_Adelgidae,plant lice
+210,Adelie Adelie_penguin Pygoscelis_adeliae,medium-sized penguins occurring in large colonies on the Adelie Coast of Antarctica
+211,Adelie_Land Terre_Adelie Adelie_Coast,a costal region of Antarctica south of Australia; noted for its large colonies of penguins
+212,Aden,an important port of Yemen; located on the Gulf of Aden; its strategic location have made it a major trading center of southern Arabia since ancient times
+213,Adenanthera genus_Adenanthera,small genus of trees of tropical Asia and Pacific areas
+214,Adenauer Konrad_Adenauer,German statesman; chancellor of West Germany (1876-1967)
+215,Adenium genus_Adenium,one species: succulent shrub or tree of tropical Africa and Arabia
+216,Adenota genus_Adenota,African antelopes: puku
+217,Adi_Granth Granth Granth_Sahib,the principal sacred text of Sikhism contains hymns and poetry as well as the teachings of the first five gurus
+218,Adiantaceae family_Adiantaceae,used in some classification systems for some genera of the family Polypodiaceae (or Pteridaceae)
+219,Adiantum genus_Adiantum,cosmopolitan genus of ferns: maidenhair ferns; in some classification systems placed in family Polypodiaceae or Adiantaceae
+220,Adige River_Adige,a river in northern Italy that flows southeast into the Adriatic Sea; "Verona is on the Adige"
+221,Adirondacks Adirondack_Mountains,a mountain range in northeastern New York State; a popular resort area
+222,Aditi,a Hindu goddess who releases from sin or disease; mother of the Adityas
+223,Aditya,one of 7 to 12 sons of Aditi; gods of celestial light
+224,Adlumia genus_Adlumia,one species: climbing fumitory
+225,Admiralty_Island,an Alaskan island in the Alexander Archipelago near Juneau
+226,Admiralty_Islands,a group of islands in the Bismarck Archipelago
+227,Admiralty_Range,mountains in Antarctica north of Victoria Land
+228,Admission_Day,in some states of the United States: a legal holiday commemorating the day the state was admitted to the Union
+229,Adonic Adonic_line,a verse line with a dactyl followed by a spondee or trochee; supposedly used in laments by Adonis
+230,adonis,any handsome young man
+231,Adonis genus_Adonis,annual or perennial herbs
+232,Adonis,(Greek mythology) a handsome youth loved by both Aphrodite and Persephone; "when Adonis died Zeus decreed that he should spend winters in the underworld with Persephone and spend summers with Aphrodite"
+233,Hadrian Publius_Aelius_Hadrianus Adrian,Roman Emperor who was the adoptive son of Trajan; travelled throughout his empire to strengthen its frontiers and encourage learning and architecture; on a visit to Britain in 122 he ordered the construction of Hadrian's Wall (76-138)
+234,Adrian Edgar_Douglas_Adrian Baron_Adrian,English physiologist who conducted research into the function of neurons; 1st baron of Cambridge (1889-1997)
+235,Adriatic Adriatic_Sea,an arm of the Mediterranean between Slovenia and Croatia and Montenegro and Albania on the east and Italy on the west
+236,Advanced_Research_and_Development_Activity ARDA,an agency of the Intelligence Community that conducts advanced research and development related to information technology
+237,advent coming,arrival that has been awaited (especially of something momentous); "the advent of the computer"
+238,Advent,the season including the four Sundays preceding Christmas
+239,Second_Coming Second_Coming_of_Christ Second_Advent Advent Parousia,(Christian theology) the reappearance of Jesus as judge for the Last Judgment
+240,Advent_Sunday,the first of the four Sundays during Advent
+241,Adventism Second_Adventism,any Christian religion that believes the second coming of Christ is imminent
+242,Adventist Second_Adventist,a member of Christian denomination that expects the imminent advent of Christ
+243,Adzhar Adzharia,an autonomous province of Georgia on the Black Sea
+244,Aedes genus_Aedes,yellow-fever mosquitos
+245,Aegates_Isles Aegadean_Isles,islands west of Sicily (now known as the Egadi Islands) where the Romans won a naval victory over the Carthaginians that ended the first Punic War in 241 BC
+246,Aegean Aegean_Sea,an arm of the Mediterranean between Greece and Turkey; a main trade route for the ancient civilizations of Crete and Greece and Rome and Persia
+247,Aegean_civilization Aegean_civilisation Aegean_culture,the prehistoric civilization on the islands in the Aegean sea and the surrounding countries; "by 800 BC the entire Aegean had adopted this style of pottery"
+248,Aegean_island,an island in the Aegean Sea
+249,Aegiceras genus_Aegiceras,a genus of herbs of the family Verbenaceae
+250,Aegilops genus_Aegilops,goat grass
+251,Aegina Aigina,an island in the Aegean Sea in the Saronic Gulf
+252,Aegina,small medusa
+253,Aegisthus,(Greek mythology) the seducer of Clytemnestra and murderer of Agamemnon who usurped the throne of Mycenae until Agamemnon's son Orestes returned home and killed him
+254,Aegospotami Aegospotamos,a creek emptying into the Hellespont in present-day Turkey; at its mouth in 405 BC the Spartan fleet under Lysander defeated the Athenians and ended the Peloponnesian War
+255,Aegospotami Aegospotamos,a river in ancient Thrace (now Turkey); in the mouth of this river the Spartan fleet under Lysander destroyed the Athenian fleet in the final battle of the Peloponnesian War (404 BC)
+256,Aegypiidae family_Aegypiidae,in some classifications considered the family comprising the Old World vultures which are more often included in the family Accipitridae
+257,Aegypius genus_Aegypius,a genus of Accipitridae
+258,Aegyptopithecus,extinct primate of about 38 million years ago; fossils found in Egypt
+259,Aeneas,a mythical Greek warrior who was a leader on the Trojan side of the Trojan War; hero of the Aeneid
+260,Aeneid,an epic in Latin by Virgil; tells the adventures of Aeneas after the Trojan War; provides an illustrious historical background for the Roman Empire
+261,Aeolian Eolian,a member of one of the four divisions of the prehistoric Greeks
+262,Aeolic Eolic,the dialect of Ancient Greek spoken in Thessaly and Boeotia and Aeolis
+263,Aeolis Aeolia,ancient name for the coastal region of northwestern Asia Minor (including Lesbos)
+264,Aeolus,god of the winds in ancient mythology
+265,Aeonium genus_Aeonium,a genus of plants of the family Crassulaceae
+266,Aepyceros genus_Aepyceros,African antelopes: impalas
+267,Aepyornidae family_Aepyornidae,coextensive with the order Aepyorniformes
+268,Aepyorniformes order_Aepyorniformes,huge extinct flightless birds: elephant birds
+269,Aerobacter genus_Aerobacter,aerobic bacteria widely distributed in nature
+270,Aerobacter_aerogenes,a species of Gram-negative aerobic bacteria that produce gas and acid from sugars and are sometimes involved in the souring of milk
+271,Aertex,a trademark for a loosely woven cotton fabric that is used to make shirts and underwear
+272,Aeschylus,Greek tragedian; the father of Greek tragic drama (525-456 BC)
+273,Aesculapius Asclepius Asklepios,son of Apollo; a hero and the Roman god of medicine and healing; his daughters were Hygeia and Panacea
+274,Aesculus genus_Aesculus,deciduous trees or some shrubs of North America; southeastern Europe; eastern Asia
+275,Aesir,(Norse mythology) the chief race of gods living at Asgard
+276,Aesop,Greek author of fables (circa 620-560 BC)
+277,Aesop's_fables,a collection of fables believed to have been written by the Greek storyteller Aesop
+278,Aether,personification of the sky or upper air breathed by the Olympians; son of Erebus and night or of Chaos and darkness
+279,ether aether,a medium that was once supposed to fill all space and to support the propagation of electromagnetic waves
+280,Aethionema genus_Aethionema,Old World genus of the family Cruciferae
+281,Aethusa genus_Aethusa,fool's parsley
+282,Aetobatus genus_Aetobatus,a genus of Myliobatidae
+283,Affirmed,thoroughbred that won the triple crown in 1978
+284,afghan,a blanket knitted or crocheted in strips or squares; sometimes used as a shawl
+285,Afghan Afghanistani,a native or inhabitant of Afghanistan
+286,Pashto Pashtu Paxto Afghani Afghan,an Iranian language spoken in Afghanistan and Pakistan; the official language of Afghanistan
+287,sheepskin_coat afghan,a coat made of sheepskin
+288,Afghan_hound Afghan,tall graceful breed of hound with a long silky coat; native to the Near East
+289,Afghan_monetary_unit,monetary unit in the Islamic State of Afghanistan
+290,Afghanistan Islamic_State_of_Afghanistan,a mountainous landlocked country in central Asia; bordered by Iran to the west and Russia to the north and Pakistan to the east and south; "Soviet troops invaded Afghanistan in 1979"
+291,Aframomum genus_Aframomum,an African genus of plants of the family Zingiberaceae
+292,Africa,the second largest continent; located south of Europe and bordered to the west by the South Atlantic and to the east by the Indian Ocean
+293,African,a native or inhabitant of Africa
+294,African-American African_American Afro-American Black_American,an American whose ancestors were born in Africa
+295,African_bowstring_hemp African_hemp Sansevieria_guineensis,bowstring hemp of South Africa
+296,African_chameleon Chamaeleo_chamaeleon,a chameleon found in Africa
+297,African_clawed_frog Xenopus_laevis,a tongueless frog native to Africa; established in the United States as result of release of laboratory and aquarium animals
+298,African_coral_snake Aspidelaps_lubricus,small widely distributed arboreal snake of southern Africa banded in black and orange
+299,African_country African_nation,countries occupying the African continent
+300,African_crocodile Nile_crocodile Crocodylus_niloticus,a dangerous crocodile widely distributed in Africa
+301,African_daisy yellow_ageratum Lonas_inodora Lonas_annua,shrub of southwestern Mediterranean region having yellow daisylike flowers
+302,African_daisy,African or Asiatic herbs with daisylike flowers
+303,African_daisy,any of several plants of the genus Arctotis having daisylike flowers
+304,African_elephant Loxodonta_africana,an elephant native to Africa having enormous flapping ears and ivory tusks
+305,African_grey African_gray Psittacus_erithacus,commonly domesticated grey parrot with red-and-black tail and white face; native to equatorial Africa
+306,African_hemp Sparmannia_africana,large shrub of South Africa having many conspicuously hairy branches with large hairy leaves and clusters of conspicuous white flowers
+307,African_holly Solanum_giganteum,woolly-stemmed biennial arborescent shrub of tropical Africa and southern Asia having silvery-white prickly branches  clusters of blue or white flowers  and bright red berries resembling holly berries
+308,African_hunting_dog hyena_dog Cape_hunting_dog Lycaon_pictus,a powerful doglike mammal of southern and eastern Africa that hunts in large packs; now rare in settled area
+309,African_lily African_tulip blue_African_lily Agapanthus_africanus,African plant with bright green evergreen leaves and umbels of many usually deep violet-blue flowers
+310,African_mahogany,African tree having hard heavy odorless wood
+311,African_marigold big_marigold Aztec_marigold Tagetes_erecta,a stout branching annual with large yellow to orange flower heads; Mexico and Central America
+312,African_monitor Varanus_niloticus,destroys crocodile eggs
+313,African_oil_palm Elaeis_guineensis,oil palm of Africa
+314,African_scented_mahogany cedar_mahogany sapele_mahogany Entandrophragma_cylindricum,African tree having rather lightweight cedar-scented wood varying in color from pink to reddish brown
+315,African_violet Saintpaulia_ionantha,tropical African plant cultivated as a houseplant for its violet or white or pink flowers
+316,African_walnut Lovoa_klaineana,tropical African timber tree with wood that resembles mahogany
+317,African_wild_ass Equus_asinus,a wild ass of Africa
+318,Africander,tall large-horned humped cattle of South Africa; used for meat or draft
+319,Africanized_bee Africanized_honey_bee killer_bee Apis_mellifera_scutellata Apis_mellifera_adansonii,a strain of bees that originated in Brazil in the 1950s as a cross between an aggressive African bee and a honeybee; retains most of the traits of the African bee; now spread as far north as Texas
+320,Afrikaans Taal South_African_Dutch,an official language of the Republic of South Africa; closely related to Dutch and Flemish
+321,Afrikaner Afrikander Boer,a white native of Cape Province who is a descendant of Dutch settlers and who speaks Afrikaans
+322,Afro Afro_hairdo,a rounded thickly curled hairdo
+323,Afro-wig,a wig that gives the appearance of an Afro hairdo
+324,Afroasiatic Afro-Asiatic Afroasiatic_language Afrasian Afrasian_language Hamito-Semitic,a large family of related languages spoken both in Asia and Africa
+325,Afrocarpus genus_Afrocarpus,dioecious evergreen trees or shrubs; equatorial to southern and southeastern Africa: yellowwood; similar to trees or genus Podocarpus
+326,Aga Agha,title for a civil or military leader (especially in Turkey)
+327,Agalinis genus_Agalinis,semiparasitic herb with purple or white or pink flowers; grows in the United States and West Indies
+328,Agamemnon,(Greek mythology) the king who lead the Greeks against Troy in the Trojan War
+329,Agamidae family_Agamidae,an Old World reptile family of Sauria
+330,Agapornis genus_Agapornis,a genus of Psittacidae
+331,Agaricaceae family_Agaricaceae,large family including many familiar mushrooms
+332,Agaricales order_Agaricales,typical gilled mushrooms belonging to the subdivision Basidiomycota
+333,Agaricus genus_Agaricus,type genus of Agaricaceae; gill fungi having brown spores and including several edible species
+334,Agassiz Louis_Agassiz Jean_Louis_Rodolphe_Agassiz,United States naturalist (born in Switzerland) who studied fossil fish; recognized geological evidence that ice ages had occurred in North America (1807-1873)
+335,Agastache genus_Agastache,giant hyssop; Mexican hyssop
+336,Agathis genus_Agathis,kauri pine
+337,Agavaceae family_Agavaceae agave_family sisal_family,chiefly tropical and xerophytic plants: includes Dracenaceae (Dracaenaceae); comprises plants that in some classifications are divided between the Amaryllidaceae and the Liliaceae
+338,Agave_tequilana,Mexican plant used especially for making tequila
+339,Agdestis genus_Agdestis,a genus with one species that is a rapidly growing climbing vine with tuberous roots; grown in hot climates
+340,Agdistis,Asiatic epithet for Rhea or Cybele
+341,Agee James_Agee,United States novelist (1909-1955)
+342,Agelaius genus_Agelaius,red-winged blackbirds
+343,Agent_Orange,a herbicide used in the Vietnam War to defoliate forest areas
+344,Ageratina genus_Ageratina,annual to perennial herbs or shrubs of eastern United States and Central and South America
+345,Aghan Margasivsa,the ninth month of the Hindu calendar
+346,Agincourt,a battle in northern France in which English longbowmen under Henry V decisively defeated a much larger French army in 1415
+347,Agkistrodon genus_Agkistrodon Ancistrodon genus_Ancistrodon,copperheads
+348,Aglaia,(Greek mythology) one of the three Graces
+349,Aglaomorpha genus_Aglaomorpha,epiphytic ferns of tropical Asia
+350,Aglaonema genus_Aglaonema,climbing herbs of southeastern Asia having thick fleshy oblong leaves and naked unisexual flowers: Chinese evergreen
+351,Agnatha superclass_Agnatha,superclass of eel-shaped chordates lacking jaws and pelvic fins: lampreys; hagfishes; some extinct forms
+352,Agni,(Sanskrit) god of fire in ancient and traditional India; one of the three chief deities of the Vedas
+353,Agnus_Dei Paschal_Lamb,figure of a lamb; emblematic of Christ
+354,Agnus_Dei,a liturgical prayer beginning with these Latin words
+355,Agonidae family_Agonidae,poachers
+356,Agonus genus_Agonus,type genus of the Agonidae
+357,Agra,a city in northern India; former capital of the Mogul empire; site of the Taj Mahal
+358,Agricola Gnaeus_Julius_Agricola,Roman general who was governor of Britain and extended Roman rule north to the Firth of Forth (37-93)
+359,Agrigento Acragas Girgenti,a town in Italy in southwestern Sicily near the coast; the site of six Greek temples
+360,Agriocharis genus_Agriocharis,a genus of birds of the family Meleagrididae including the ocellated turkey
+361,Agrippa Marcus_Vipsanius_Agrippa,Roman general who commanded the fleet that defeated the forces of Antony and Cleopatra at Actium (63-12 BC)
+362,Agrippina Agrippina_the_Younger,wife who poisoned Claudius after her son Nero was declared heir and who was then put to death by Nero
+363,Agrippina Agrippina_the_Elder,granddaughter of Augustus and mother of Caligula and Agrippina the Younger (14 BC - AD 33)
+364,Agrobacterium genus_Agrobacterium,small motile bacterial rods that can reduce nitrates and cause galls on plant stems
+365,Agrobacterium_tumefaciens,the bacteria that produce crown gall disease in plants
+366,Agropyron genus_Agropyron,perennial grasses of temperate and cool regions: wheatgrass; dog grass
+367,Agrostemma genus_Agrostemma,a caryophylloid dicot genus including corn cockles
+368,Agrostis genus_Agrostis,annual or perennial grasses cosmopolitan in northern hemisphere: bent grass (so named from `bent' meaning an area of unfenced grassland)
+369,Ahab,according to the Old Testament he was a pagan king of Israel and husband of Jezebel (9th century BC)
+370,Ahriman,the spirit of evil in Zoroastrianism; arch rival of Ormazd
+371,Ahuehuete Tule_tree,Mexico's most famous tree; a giant specimen of Montezuma cypress more than 2 000 years old with a girth of 165 feet at Santa Maria del Tule; "some say the Tule tree is the world's largest single biomass"
+372,Ahura,(Zoroastrianism) title for benevolent deities
+373,Aiken Conrad_Aiken Conrad_Potter_Aiken,United States writer (1889-1973)
+374,Ailey Alvin_Ailey,United States choreographer noted for his use of African elements (born in 1931)
+375,Ailuropoda genus_Ailuropoda,only the giant panda: in some classifications considered a genus of the separate family Ailuropodidae
+376,Ailuropodidae family_Ailuropodidae,in some classifications considered the family comprising the giant pandas
+377,Ailurus genus_Ailurus,lesser pandas
+378,Air_Combat_Command ACC,a command that is the primary provider of air combat weapon systems to the United States Air Force; operates fighter  bomber  reconnaissance  battle-management  and rescue aircraft
+379,Air_Corps,formerly the airborne division of the United States Army
+380,Air_Force_Intelligence_Surveillance_and_Reconnaissance Air_Force_ISR AFISR,an agency focused on ensuring that the United States military attains information superiority; operates worldwide ground sites and an array of airborne reconnaissance and surveillance platforms
+381,Air_Force_Research_Laboratory AFRL,a United States Air Force defense laboratory responsible for discovering and developing and integrating fighting technologies for aerospace forces
+382,Air_Force_Space_Command AFSPC,a command of the United States Air Force that is responsible for defending the United States through its space and intercontinental ballistic missile operations
+383,Air_Medal,a United States Air Force decoration for meritorious achievement while participating in an aerial flight
+384,Air_National_Guard ANG,a civilian reserve component of the United States Air Force that provides prompt mobilization during war and assistance during national emergencies
+385,Aire River_Aire Aire_River,a river in northern England that flows southeast through West Yorkshire
+386,Airedale Airedale_terrier,breed of large wiry-coated terrier bred in Yorkshire
+387,Aix genus_Aix,wood duck and mandarin duck
+388,Aizoaceae family_Aizoaceae Tetragoniaceae family_Tetragoniaceae carpetweed_family,succulent herbs or small shrubs mostly of South Africa but also New Zealand and North America: carpetweeds; fig marigolds
+389,Ajaia genus_Ajaia,a genus of Platalea
+390,Ajax,a mythical Greek hero; a warrior who fought against Troy in the Iliad
+391,Ajuga genus_Ajuga,bugle
+392,Akan,a Kwa language spoken in Ghana and the Ivory Coast
+393,Akeridae family_Akeridae,bubble shells
+394,Akhbari,a religious movement by Arab Shiite Muslims in 17th century Iraq that is opposed to the Usuli; "Akhbari Shiism has never promoted political control"
+395,Akhenaton Akhenaten Ikhanaton Amenhotep_IV,early ruler of Egypt who rejected the old gods and replaced them with sun worship (died in 1358 BC)
+396,Akkadian,an ancient branch of the Semitic languages
+397,Akron,a city in northeastern Ohio; the heart of the United States rubber industry
+398,Aksa_Martyrs_Brigades al-Aksa_Martyrs_Brigades Martyrs_of_al-Aqsa,a militant offshoot of al-Fatah that is the newest and strongest and best equipped faction active in the West Bank; responsible for many deadly attacks in Israel in 2002
+399,Akwa'ala,a member of a North American Indian people living in Baja California
+400,Akwa'ala,the Yuman language spoken by the Akwa'ala
+401,Al-hakim,an Ismaili caliph of Egypt who declared himself an incarnation of God and founded the Druze religious sect (985-1021)
+402,Al_Aqabah Aqaba Akaba,Jordan's port; located in southwestern Jordan on the Gulf of Aqaba
+403,Al_Ladhiqiyah Latakia,a seaport on the western coast of Syria
+404,Al_Nathir,a Palestinian terrorist organization formed in 2002 and linked to Fatah movement of Yasser Arafat
+405,Alabama Heart_of_Dixie Camellia_State AL,a state in the southeastern United States on the Gulf of Mexico; one of the Confederate states during the American Civil War
+406,Alabama,a member of the Muskhogean people formerly living in Alabama; a member of the Creek Confederacy
+407,Alabama Alabama_River,a river in Alabama formed by the confluence of the Coosa and Tallapoosa Rivers near Montgomery; flows southwestward to become a tributary of the Mobile River
+408,Alabama,the Muskhogean language of the Alabama
+409,Alabaman Alabamian,a native or resident of Alabama
+410,Aladdin,in the Arabian Nights a boy who acquires a magic lamp from which he can summon a genie
+411,Aladdin's_lamp,(Arabian Nights) a magical lamp from which Aladdin summoned a genie
+412,Alamo,a siege and massacre at a mission in San Antonio in 1836; Mexican forces under Santa Anna besieged and massacred American rebels who were fighting to make Texas independent of Mexico
+413,Aland_islands Aaland_islands Ahvenanmaa,an archipelago of some 6 000 islands in the Gulf of Bothnia under Finnish control
+414,Alar daminozide,a chemical sprayed on fruit trees to regulate their growth so the entire crop can be harvested at one time
+415,Alaric,king of the Visigoths who captured Rome in 410 (370-410)
+416,Alaska Last_Frontier AK,a state in northwestern North America; the 49th state admitted to the union; "Alaska is the largest state in the United States"
+417,Alaska_Native Alaskan_Native Native_Alaskan,a member or descendant of any of the aboriginal peoples of Alaska
+418,Alaska_Peninsula,a peninsula of southwestern Alaska (a continuation of the Aleutian Islands)
+419,Alaska_Range,a mountain range in south central Alaska; contains Mount McKinley
+420,Alaska_Standard_Time Yukon_Time,standard time in the 9th time zone west of Greenwich  reckoned at the 135th meridian west; used in Hawaii and most of Alaska
+421,Alaska_fur_seal Callorhinus_ursinus,of Pacific coast from Alaska southward to California
+422,Alaska_king_crab Alaskan_king_crab king_crab Alaska_crab,meat of large cold-water crab; mainly leg meat
+423,king_crab Alaska_crab Alaskan_king_crab Alaska_king_crab Paralithodes_camtschatica,large edible crab of northern Pacific waters especially along the coasts of Alaska and Japan
+424,Alaska_rein_orchid Habenaria_unalascensis,similar to coastal rein orchid but with smaller flowers; Alaska to Baja California and east to the Dakotas and Colorado
+425,Alaskan,a native or resident of Alaska
+426,Alaskan_brown_bear Kodiak_bear Kodiak Ursus_middendorffi Ursus_arctos_middendorffi,brown bear of coastal Alaska and British Columbia
+427,Alaskan_pipeline trans-Alaska_pipeline,an oil pipeline that runs 800 miles from wells at Prudhoe Bay to the port of Valdez
+428,Alauda genus_Alauda,type genus of the Alaudidae: skylarks
+429,Alaudidae family_Alaudidae,larks
+430,Albania Republic_of_Albania,a republic in southeastern Europe on the Adriatic coast of the Balkan Peninsula
+431,Albanian,a native or inhabitant of Albania
+432,Albanian,the Indo-European language spoken by the people of Albania
+433,Albanian_monetary_unit,monetary unit in Albania
+434,Albany capital_of_New_York,state capital of New York; located in eastern New York State on the west bank of the Hudson river
+435,Albany,a town in southwest Georgia; processing center for peanuts and pecans
+436,Albatrellus genus_Albatrellus,a genus of fungi belonging to the family Polyporaceae
+437,Albatrellus_dispansus,a rare fungus having a large (up to 14 inches wide) yellow fruiting body with multiple individual caps and a broad central stalk and a fragrant odor
+438,Albatrellus_ovinus sheep_polypore,a fungus with a whitish often circular cap and a white pore surface and small pores and a white central stalk; found under conifers; edible but not popular
+439,Albee Edward_Albee Edward_Franklin_Albeen,United States dramatist (1928-)
+440,Albers Josef_Albers,United States painter born in Germany; works characterized by simple geometrical patterns in various colors (1888-1976)
+441,Albert Prince_Albert Albert_Francis_Charles_Augustus_Emmanuel,prince consort of Queen Victoria of England (1819-1861)
+442,Alberta,one of the three prairie provinces in western Canada; rich in oil and natural gas and minerals
+443,Alberti Leon_Battista_Alberti,Italian architect and painter; pioneering theoretician of Renaissance architecture (1404-1472)
+444,Albigenses Cathars Cathari,a Christian religious sect in southern France in the 12th and 13th centuries; believers in Albigensianism
+445,Albigensianism Catharism,a Christian movement considered to be a medieval descendant of Manichaeism in southern France in the 12th and 13th centuries; characterized by dualism (asserted the coexistence of two mutually opposed principles  one good and one evil); was exterminated for heresy during the Inquisition
+446,Albion,archaic name for England or Great Britain; used poetically
+447,Albright's_disease polyostotic_fibrous_dysplasia,fibrous dysplasia of bone affecting multiple bones
+448,Albuginaceae family_Albuginaceae,fungi that produce white sori resembling blisters on certain flowering plants
+449,Albugo genus_Albugo,type genus of the Albuginaceae; fungi causing white rusts
+450,Albula genus_Albula,type and sole genus of the family Albulidae
+451,Albulidae family_Albulidae,bonefish
+452,Albuquerque,the largest city in New Mexico; located in central New Mexico on the Rio Grande river
+453,Alca genus_Alca,type genus of the Alcidae comprising solely the razorbill
+454,Alcaeus,Greek lyric poet of Lesbos; reputed inventor of Alcaic verse (611-580 BC)
+455,Alcaic Alcaic_verse,verse in the meter used in Greek and Latin poetry consisting of strophes of 4 tetrametric lines; reputedly invented by Alcaeus
+456,Alcea genus_Alcea,genus of erect herbs of the Middle East having showy flowers: hollyhocks; in some classification systems synonymous with genus Althaea
+457,Alcedinidae family_Alcedinidae,kingfishers
+458,Alcedo genus_Alcedo,type genus of the Alcedinidae
+459,Alcelaphus genus_Alcelaphus,African antelopes: hartebeests
+460,Alces genus_Alces,elk or moose
+461,Alcibiades,ancient Athenian statesman and general in the Peloponnesian War (circa 450-404 BC)
+462,Alcidae family_Alcidae,web-footed diving seabirds of northern seas: auks; puffins; guillemots; murres; etc.
+463,Alcoholics_Anonymous AA,an international organization that provides a support group for persons trying to overcome alcoholism
+464,Alcott Louisa_May_Alcott,United States novelist noted for children's books (1832-1888)
+465,Alcyonacea suborder_Alcyonacea,comprising the soft corals
+466,Alcyonaria order_Alcyonaria,corals and sea anemones having eight branches
+467,Alcyone Halcyon,(Greek mythology) a woman who was turned into a kingfisher
+468,Aldebaran,the brightest star in Taurus
+469,Aldrovanda genus_Aldrovanda,one species: waterwheel plant
+470,Alectis genus_Alectis,a genus of Carangidae
+471,Alecto,one of the three Furies
+472,Alectoria genus_Alectoria,lichens having dark brown erect or pendulous much-branched cylindrical thallus
+473,Alectoris genus_Alectoris,a genus of Perdicidae
+474,Alectura genus_Alectura,brush turkeys
+475,Alepisaurus genus_Alepisaurus,slender scaleless predaceous tropical deep-sea fishes
+476,Aletris genus_Aletris,small genus of bitter-rooted herbs of eastern North America and Asia; sometimes placed in family Melanthiaceae
+477,Aleuria_aurantia orange_peel_fungus,a discomycete with bright orange cup-shaped or saucer-shaped fruiting bodies and pale orange exteriors
+478,Aleurites genus_Aleurites,candlenut
+479,Aleut Aleutian,a member of the people inhabiting the Aleutian Islands and western Alaska
+480,Aleut,the language spoken by the Aleut
+481,Aleutian_Islands Aleutians,an archipelago in the North Pacific extending southwestern from Alaska
+482,Alex_Boncayao_Brigade ABB Revolutionary_Proletarian_Army RPA-ABB,an urban hit squad and guerrilla group of the Communist Party in the Philippines; formed in the 1980s
+483,Alexander Alexanders black_lovage horse_parsley Smyrnium_olusatrum,European herb somewhat resembling celery widely naturalized in Britain coastal regions and often cultivated as a potherb
+484,Alexander Alexander_the_Great,king of Macedon; conqueror of Greece and Egypt and Persia; founder of Alexandria (356-323 BC)
+485,Alexander_Archipelago,a group of islands off southeastern Alaska
+486,Alexander_I Czar_Alexander_I Aleksandr_Pavlovich,the czar of Russia whose plans to liberalize the government of Russia were unrealized because of the wars with Napoleon (1777-1825)
+487,Alexander_II Czar_Alexander_II Alexander_the_Liberator,the son of Nicholas I who  as czar of Russia  introduced reforms that included limited emancipation of the serfs (1818-1881)
+488,Alexander_III Czar_Alexander_III,son of Alexander II who was czar of Russia (1845-1894)
+489,Alexander_VI Pope_Alexander_VI Borgia Rodrigo_Borgia,Pope and father of Cesare Borgia and Lucrezia Borgia (1431-1503)
+490,Alexandria,a town in Louisiana on the Red River
+491,Alexandria El_Iskandriyah,the chief port of Egypt; located on the western edge of the Nile delta on the Mediterranean Sea; founded by Alexander the Great; the capital of ancient Egypt
+492,Alexandria_senna Alexandrian_senna true_senna tinnevelly_senna Indian_senna Senna_alexandrina Cassia_acutifolia Cassia_augustifolia,erect shrub having racemes of tawny yellow flowers; the dried leaves are used medicinally as a cathartic; sometimes placed in genus Cassia
+493,Alexandrian,a resident or native of Alexandria (especially Alexandria in Egypt)
+494,Alexandrian_laurel Calophyllum_inophyllum,East Indian tree having racemes of fragrant white flowers; coastal areas southern India to Malaysia
+495,Alexandrine,(prosody) a line of verse that has six iambic feet
+496,Aleyrodes genus_Aleyrodes,type genus of the Aleyrodidae
+497,Aleyrodidae family_Aleyrodidae,whiteflies
+498,Alfred AElfred Alfred_the_Great,king of Wessex; defeated the Danes and encouraged writing in English (849-899)
+499,Alger Horatio_Alger,United States author of inspirational adventure stories for boys; virtue and hard work overcome poverty (1832-1899)
+500,Algeria Algerie Democratic_and_Popular_Republic_of_Algeria,a republic in northwestern Africa on the Mediterranean Sea with a population that is predominantly Sunni Muslim; colonized by France in the 19th century but gained autonomy in the early 1960s
+501,Algerian,a native or inhabitant of Algeria
+502,Algerian_centime,100 centimes equal 1 dinar in Algeria
+503,Algerian_dinar dinar,the basic unit of money in Algeria
+504,Algerian_monetary_unit,monetary unit in Algeria
+505,Algeripithecus genus_Algeripithecus,an extinct genus of Hominoidea
+506,Algeripithecus_minutus,tiny (150 to 300 grams) extinct primate of 46 to 50 million years ago; fossils found in Algeria; considered by some authorities the leading candidate for the first anthropoid
+507,Algiers Algerian_capital,an ancient port on the Mediterranean; the capital and largest city of Algeria
+508,Algonkian Algonkin,a member of a North American Indian people in the Ottawa river valley of Ontario and Quebec
+509,Algonkian Algonkin,the Algonquian language spoken by the Algonkian
+510,Algonquian Algonquin,a member of any of the North American Indian groups speaking an Algonquian language and originally living in the subarctic regions of eastern Canada; many Algonquian tribes migrated south into the woodlands from the Mississippi River to the Atlantic coast
+511,Algonquian Algonquin Algonquian_language,family of North American Indian languages spoken from Labrador to South Carolina and west to the Great Plains
+512,Algren Nelson_Algren,United States writer (1909-1981)
+513,Alhambra,a fortified Moorish palace built near Granada by Muslim kings in the Middle Ages
+514,Alhazen Alhacen al-Haytham Ibn_al-Haytham Al-Hasan_ibn_al-Haytham,an Egyptian polymath (born in Iraq) whose research in geometry and optics was influential into the 17th century; established experiments as the norm of proof in physics (died in 1040)
+515,Ali Muhammad_Ali Cassius_Clay Cassius_Marcellus_Clay,United States prizefighter who won the world heavyweight championship three times (born in 1942)
+516,Ali,the fourth caliph of Islam who is considered to be the first caliph by Shiites; he was a cousin and son-in-law of Muhammad; after his assassination Islam was divided into Shiite and Sunnite sects
+517,Ali_Baba,the fictional woodcutter who discovered that `open sesame' opened a cave in the Arabian Nights' Entertainment
+518,Alisma genus_Alisma,small genus of aquatic or semiaquatic plants
+519,Alismataceae family_Alismataceae water-plantain_family,perennial or annual aquatic or marsh plants
+520,Alismatidae subclass_Alismatidae,one of four subclasses or superorders of Monocotyledones; comprises about 500 species in 14 families of aquatic and semiaquatic herbs
+521,Alka-seltzer,a commercial antacid; tablets dissolve in water to give an effervescent solution
+522,All_Saints'_Day Allhallows November_1 Hallowmas Hallowmass,a Christian feast day honoring all the saints; first observed in 835
+523,All_Souls'_Day November_2,a day of supplication for all the souls in purgatory
+524,Allah,Muslim name for the one and only God
+525,Alleghenies Allegheny_Mountains,the western part of the Appalachian Mountains; extending from northern Pennsylvania to southwestern Virginia
+526,Allegheny Allegheny_River,a river that rises in Pennsylvania and flows north into New York and then back south through Pennsylvania again to join the Monongahela River at Pittsburgh which is the beginning of the Ohio River
+527,Allegheny_chinkapin eastern_chinquapin chinquapin dwarf_chestnut Castanea_pumila,shrubby chestnut tree of southeastern United States having small edible nuts
+528,Allegheny_plum Alleghany_plum sloe Prunus_alleghaniensis,wild plum of northeastern United States having dark purple fruits with yellow flesh
+529,Allegheny_spurge Allegheny_mountain_spurge Pachysandra_procumbens,low semi-evergreen perennial herb having small spikes of white or pinkish flowers; native to southern United States but grown elsewhere
+530,Allen Gracie_Allen Grace_Ethel_Cecile_Rosalie_Allen Gracie,United States comedienne remembered as the confused but imperturbable partner of her husband  George Burns (1906-1964)
+531,Allen Woody_Allen Allen_Stewart_Konigsberg,United States filmmaker and comic actor (1935-)
+532,Allen Ethan_Allen,a soldier of the American Revolution whose troops helped capture Fort Ticonderoga from the British (1738-1789)
+533,Allen_screw,a screw with a hexagonal hole in the head
+534,Allen_wrench,a wrench for Allen screws
+535,Allentown,a city in eastern Pennsylvania; an industrial and commercial center
+536,Allhallowtide,the season of All Saints' Day
+537,Alliaceae family_Alliaceae,one of many families or subfamilies into which some classification systems subdivide the Liliaceae but not widely accepted; includes especially genus Allium
+538,Alliaria genus_Alliaria,a genus of herbs of the family Cruciferae; have broad leaves and whit flowers and long siliques
+539,Allied_Command_Atlantic ACLANT,a major strategic headquarters of NATO located in the United States; is under the authority of the North Atlantic Council
+540,Allied_Command_Europe ACE,a major strategic headquarters of NATO; safeguards an area extending from Norway to Turkey
+541,Allies,the alliance of nations that fought the Axis in World War II and which (with subsequent additions) signed the charter of the United Nations in 1945
+542,Allies,in World War I the alliance of Great Britain and France and Russia and all the other nations that became allied with them in opposing the Central Powers
+543,allies,an alliance of nations joining together to fight a common enemy
+544,Alligatoridae family_Alligatoridae,alligators; caimans
+545,Allionia genus_Allionia,small genus of chiefly American herbs
+546,Allium genus_Allium,large genus of perennial and biennial pungent bulbous plants: garlic; leek; onion; chive; sometimes placed in family Alliaceae as the type genus
+547,Almaty Alma-Ata,the largest city in Kazakhstan and the capital until 1998
+548,Almoravid,a member of a Muslim dynasty of Berber warriors that flourished from 1049 to 1145 and that established political dominance over northwestern Africa and Spain
+549,Alnico,trade name for an alloy used to make high-energy permanent magnets; contains aluminum and iron and nickel plus cobalt or copper or titanium
+550,Alnus genus_Alnus,alders
+551,Aloeaceae family_Aloeaceae aloe_family,one of many families or subfamilies into which some classification systems subdivide the Liliaceae but not widely accepted
+552,Alonso Alicia_Alonso,Cuban dancer and choreographer (born in 1921)
+553,Alopecurus genus_Alopecurus,annual or perennial grasses including decorative and meadow species as well as notorious agricultural weeds
+554,Alopex genus_Alopex,arctic foxes
+555,Alopiidae family_Alopiidae,thresher sharks
+556,Alopius genus_Alopius,type genus of the family Alopiidae; in some classifications considered a genus of the family Lamnidae
+557,Alosa genus_Alosa,shad
+558,Alost Aalost,a town in central Belgium
+559,Alouatta genus_Alouatta,howler monkeys
+560,Alpena,a town in northern Michigan on an arm of Lake Huron
+561,Alpha_Centauri Rigil_Kent Rigil,brightest star in Centaurus; second nearest star to the sun
+562,Alpha_Crucis,the brightest star in the Southern Cross
+563,Alpine_anemone mountain_anemone Anemone_tetonensis,silky-foliaged herb of the Rocky Mountains with bluish-white flowers
+564,Alpine_besseya Besseya_alpina,small pale plant with dense spikes of pale bluish-violet flowers; of high cold meadows from Wyoming and Utah to New Mexico
+565,Alpine_celery_pine Phyllocladus_alpinus,small shrubby celery pine of New Zealand
+566,Alpine_enchanter's_nightshade Circaea_alpina,an Alpine variety of enchanter's nightshade
+567,Alpine_fir subalpine_fir Abies_lasiocarpa,medium-tall timber tree of the Rocky Mountains having a narrowly conic to columnar crown
+568,Alpine_glacier Alpine_type_of_glacier,a glacier that moves down from a high valley
+569,Alpine_lady_fern Athyrium_distentifolium,a lady fern with deeply cut leaf segments; found in the Rocky Mountains
+570,Alpine_mouse-ear Arctic_mouse-ear Cerastium_alpinum,widespread in Arctic and on mountains in Europe
+571,Alpine_woodsia northern_woodsia flower-cup_fern Woodsia_alpina,slender fern of northern North America with shining chestnut-colored stipes and bipinnate fronds with usually distinct marginal sori
+572,Alpinia genus_Alpinia genus_Zerumbet genus_Languas,perennial rhizomatous herbs of Asia and Australia and Polynesia having ginger-scented rhizomes
+573,Alpinism,mountain climbing (not restricted to the Alps)
+574,Alps the_Alps,a large mountain system in south-central Europe; scenic beauty and winter sports make them a popular tourist attraction
+575,Alsace Alsatia Elsass,a region of northeastern France famous for its wines
+576,Alsatian,a native or inhabitant of Alsace
+577,German_shepherd German_shepherd_dog German_police_dog alsatian,breed of large shepherd dogs used in police work and as a guide for the blind
+578,Alsobia genus_Alsobia,tropical American herbs sometimes included in genus Episcia
+579,Alsophila genus_Alsophila,geometrid moths
+580,Alsophila_pometaria,North American moth with grey-winged males and wingless females; larvae are fall cankerworms
+581,Alstonia genus_Alstonia,genus of evergreen trees or shrubs with white funnel-shaped flowers and milky sap; tropical Africa to southeastern Asia and Polynesia
+582,Alstroemeriaceae family_Alstroemeriaceae,one of many families or subfamilies into which some classification systems subdivide the Liliaceae but not widely accepted; sometimes included in subfamily Amaryllidaceae
+583,Altai_Mountains Altay_Mountains,a mountain range in central Asia that extends a thousand miles from Kazakhstan eastward into western Mongolia and northern China
+584,Altaic,any member of the peoples speaking a language in the Altaic language group
+585,Altaic Altaic_language,a group of related languages spoken in Asia and southeastern Europe
+586,Altair,double star 15.7 light years from Earth; the brightest star in the Aquila constellation
+587,Alternanthera genus_Alternanthera,genus of low herbs of tropical America and Australia; includes genus Telanthera
+588,Altoona,a town in central Pennsylvania
+589,alyssum madwort,any garden plant of the genus Alyssum having clusters of small yellow or white flowers
+590,Alyssum genus_Alyssum,a genus of the family Cruciferae
+591,Alytes genus_Alytes,midwife toads
+592,Alzheimer's_disease Alzheimer's Alzheimers,a progressive form of presenile dementia that is similar to senile dementia except that it usually starts in the 40s or 50s; first symptoms are impaired memory which is followed by impaired thought and speech and finally complete helplessness
+593,Amaethon,the farmer god; ancient god of agriculture
+594,Amanita genus_Amanita,genus of widely distributed agarics that have white spores and are poisonous with few exceptions
+595,Amaranthaceae family_Amaranthaceae amaranth_family,cosmopolitan family of herbs and shrubs
+596,Amaranthus genus_Amaranthus,large widely distributed genus of chiefly coarse annual herbs
+597,Amarillo,a city in the northern panhandle of Texas
+598,Amaryllidaceae family_Amaryllidaceae amaryllis_family,snowdrop; narcissus; daffodil; in some classification systems considered a subfamily of the Liliaceae
+599,Amaterasu Amaterasu_Omikami,central deity of Shinto; goddess personifying the sun and ancestress of the rulers of Japan
+600,Amati Nicolo_Amati Nicola_Amati,Italian violin maker in Cremona; taught the craft to Guarneri and Stradivari (1596-1684)
+601,Amati,a violin made by Nicolo Amati or a member of his family
+602,Amauropelta genus_Amauropelta,epiphytic or terrestrial ferns of America and Africa and Polynesia
+603,amazon virago,a large strong and aggressive woman
+604,Amazon,(Greek mythology) one of a nation of women warriors of Scythia (who burned off the right breast in order to use a bow and arrow more effectively)
+605,Amazon Amazon_River,a major South American river; arises in the Andes and flows eastward into the South Atlantic; the world's 2nd longest river (4000 miles)
+606,amazon,mainly green tropical American parrots
+607,Amazon_ant Polyergus_rufescens,small reddish slave-making ant species
+608,Amazona genus_Amazona,a genus of Psittacidae
+609,Amberboa genus_Amberboa,herbs of Mediterranean to central Asia cultivated for their flowers
+610,Ambloplites genus_Ambloplites,a genus of Centrarchidae
+611,Amblyrhynchus genus_Amblyrhynchus,marine iguanas
+612,Ambrose Saint_Ambrose St._Ambrose,(Roman Catholic Church) Roman priest who became bishop of Milan; the first Church Father born and raised in the Christian faith; composer of hymns; imposed orthodoxy on the early Christian church and built up its secular power; a saint and Doctor of the Church (340?-397)
+613,Ambrosiaceae family_Ambrosiaceae,in some classifications considered a separate family comprising a subgroup of the Compositae including the ragweeds
+614,Ambystoma genus_Ambystoma,type genus of the Ambystomatidae
+615,Ambystomatidae family_Ambystomatidae,New World salamanders
+616,Ameiuridae family_Ameiuridae,North American catfishes
+617,Ameiurus genus_Ameiurus,type genus of the Ameiuridae: bullhead catfishes
+618,Amelanchier genus_Amelanchier,North American deciduous trees or shrubs
+619,Amen Amon Amun,a primeval Egyptian personification of air and breath; worshipped especially at Thebes
+620,Amen-Ra Amon-Ra Amun_Ra,Egyptian sun god; supreme god of the universe in whom Amen and Ra were merged; principal deity during Theban supremacy
+621,Amentiferae group_Amentiferae,used in some classification systems for plants that bear catkins
+622,United_States United_States_of_America America the_States US U.S. USA U.S.A.,North American republic containing 50 states - 48 conterminous states in North America plus Alaska in northwest North America and the Hawaiian Islands in the Pacific Ocean; achieved independence in 1776
+623,America,North America and South America and Central America
+624,American,a native or inhabitant of the United States
+625,American_English American_language American,the English language as used in the United States
+626,American,a native or inhabitant of a North American or Central American or South American country
+627,American_Baptist_Convention Northern_Baptist_Convention,an association of Northern Baptists
+628,American_Civil_War United_States_Civil_War War_between_the_States,civil war in the United States between the North and the South; 1861-1865
+629,American_Dream,the widespread aspiration of Americans to live better than their parents did
+630,American_Falls,a part of Niagara Falls in western New York (north of Buffalo)
+631,American_Federation_of_Labor AFL,a federation of North American labor unions that merged with the Congress of Industrial Organizations in 1955
+632,American_Federation_of_Labor_and_Congress_of_Industrial_Organizations AFL-CIO,the largest federation of North American labor unions; formed in 1955
+633,American_Indian_Day,US: the 4th Friday in September
+634,American_Labor_Party,a former political party in the United States; formed in 1936 in New York when labor and liberals bolted the Democratic Party
+635,American_Legion,the largest organization of United States war veterans
+636,American_Party Know-Nothing_Party,a former political party in the United States; active in the 1850s to keep power out of the hands of immigrants and Roman Catholics
+637,American_Revolution American_Revolutionary_War War_of_American_Independence American_War_of_Independence,the revolution of the American colonies against Great Britain; 1775-1783
+638,American_Revolutionary_leader,a nationalist leader in the American Revolution and in the creation of the United States
+639,American_Samoa Eastern_Samoa AS,a United States territory on the eastern part of the island of Samoa
+640,American_Staffordshire_terrier Staffordshire_terrier American_pit_bull_terrier pit_bull_terrier,American breed of muscular terriers with a short close-lying stiff coat
+641,American_Standard_Code_for_Information_Interchange ASCII,(computer science) a code for information exchange between computers made by different companies; a string of 7 binary digits represents each character; used in most microcomputers
+642,American_Standard_Version American_Revised_Version,a revised version of the King James Version
+643,American_Stock_Exchange AMEX Curb,a stock exchange in New York
+644,American_agave Agave_americana,widely cultivated American monocarpic plant with greenish-white flowers on a tall stalk; blooms only after ten to twenty years and then dies
+645,American_alligator Alligator_mississipiensis,large alligator of the southeastern United States
+646,American_angelica_tree devil's_walking_stick Hercules'-club Aralia_spinosa,small deciduous clump-forming tree or shrub of eastern United States
+647,American_arborvitae northern_white_cedar white_cedar Thuja_occidentalis,small evergreen of eastern North America having tiny scalelike leaves on flattened branchlets
+648,American_badger Taxidea_taxus,a variety of badger native to America
+649,American_barberry Berberis_canadensis,deciduous shrub of eastern North America whose leaves turn scarlet in autumn and having racemes of yellow flowers followed by ellipsoid glossy red berries
+650,American_basswood American_lime Tilia_americana,large American shade tree with large dark green leaves and rounded crown
+651,American_beech white_beech red_beech Fagus_grandifolia Fagus_americana,North American forest tree with light green leaves and edible nuts
+652,American_bison American_buffalo buffalo Bison_bison,large shaggy-haired brown bison of North American plains
+653,American_bittern stake_driver Botaurus_lentiginosus,a kind of bittern
+654,American_black_bear black_bear Ursus_americanus Euarctos_americanus,brown to black North American bear; smaller and less ferocious than the brown bear
+655,American_bog_asphodel Narthecium_americanum,of the eastern United States: New Jersey to South Carolina
+656,American_bugbane summer_cohosh Cimicifuga_americana,bugbane of the eastern United States having erect racemes of white flowers
+657,American_chameleon anole Anolis_carolinensis,small arboreal tropical American insectivorous lizards with the ability to change skin color
+658,American_chestnut American_sweet_chestnut Castanea_dentata,large tree found from Maine to Alabama
+659,American_cockroach Periplaneta_americana,large reddish brown free-flying cockroach originally from southern United States but now widely distributed
+660,American_coot marsh_hen mud_hen water_hen Fulica_americana,a coot found in North America
+661,American_copper Lycaena_hypophlaeas,common copper butterfly of central and eastern North America
+662,American_crab_apple garland_crab Malus_coronaria,medium-sized tree of the eastern United States having pink blossoms and small yellow fruit
+663,American_cranberry large_cranberry Vaccinium_macrocarpon,trailing red-fruited plant
+664,American_crayfish,common large crayfishes of eastern North America
+665,American_crow Corvus_brachyrhyncos,common crow of North America
+666,Northern_dewberry American_dewberry Rubus_flagellaris,of eastern North America
+667,American_dewberry Rubus_canadensis,North American dewberry
+668,American_dog_violet Viola_conspersa,violet of eastern North America having pale violet to white flowers
+669,American_egret great_white_heron Egretta_albus,a common egret of the genus Egretta found in America; it is a variety of the Old World white egret Casmerodius albus
+670,American_elder black_elderberry sweet_elder Sambucus_canadensis,common elder of central and eastern North America bearing purple-black berries; fruit used in wines and jellies
+671,American_elm white_elm water_elm rock_elm Ulmus_americana,large ornamental tree with graceful gradually spreading branches common in eastern North America
+672,American_feverfew wild_quinine prairie_dock Parthenium_integrifolium,stout perennial herb of the eastern United States with whitish flowers; leaves traditionally used by Catawba Indians to treat burns
+673,American_flag Stars_and_Stripes Star-Spangled_Banner Old_Glory,the national flag of the United States of America
+674,American_fly_honeysuckle fly_honeysuckle Lonicera_canadensis,erect deciduous North American shrub with yellow-white flowers
+675,American_flying_squirrel,New World flying squirrels
+676,American_football American_football_game,a game played by two teams of 11 players on a rectangular field 100 yards long; teams try to get possession of the ball and advance it across the opponents goal line in a series of (running or passing) plays
+677,American_foxhound,an American breed of foxhounds used for hunting both in packs and individually
+678,American_frogbit Limnodium_spongia,American plant with roundish heart-shaped or kidney-shaped leaves; usually rooted in muddy bottoms of ponds and ditches
+679,American_gallinule Porphyrula_martinica,American purple gallinule
+680,American_germander wood_sage Teucrium_canadense,subshrub with serrate leaves and cream to pink or purple flowers in spikelike racemes; North America
+681,American_ginseng sang Panax_quinquefolius,North American woodland herb similar to and used as substitute for the Chinese ginseng
+682,American_green_toad Bufo_debilis,small green or yellow-green toad with small black bars and stripes
+683,American_hackberry Celtis_occidentalis,large deciduous shade tree of southern United States with small deep purple berries
+684,American_harvest_mouse harvest_mouse,any of several small greyish New World mice inhabiting e.g. grain fields
+685,American_hazel Corylus_americana,nut-bearing shrub of eastern North America
+686,American_holly Christmas_holly,an evergreen tree
+687,American_hop Humulus_americanus,native American plant sometimes confused with the European hop
+688,American_hornbeam Carpinus_caroliniana,tree or large shrub with grey bark and blue-green leaves that turn red-orange in autumn
+689,American_lady_crab lady_crab calico_crab Ovalipes_ocellatus,brightly spotted crab of sandy beaches of the Atlantic coast of the United States
+690,American_larch tamarack black_larch Larix_laricina,medium-sized larch of Canada and northern United States including Alaska having a broad conic crown and rust-brown scaly bark
+691,American_lobster Northern_lobster Maine_lobster,flesh of cold-water lobsters having large tender claws; caught from Maine to the Carolinas
+692,American_lobster Northern_lobster Maine_lobster Homarus_americanus,lobster of Atlantic coast of America
+693,American_magpie Pica_pica_hudsonia,a magpie of Rocky Mountains in North America
+694,American_maidenhair_fern five-fingered_maidenhair_fern Adiantum_pedatum,hardy palmately branched North American fern with divergent recurved branches borne on lustrous dark reddish stipes
+695,American_marten American_sable Martes_americana,valued for its fur
+696,American_mastodon American_mastodont Mammut_americanum,mastodon of North America; in some classifications considered a mammoth rather than a mastodon
+697,American_merganser Mergus_merganser_americanus,common North American diving duck considered a variety of the European goosander
+698,American_mink Mustela_vison,usually rich dark brown
+699,American_mistletoe Phoradendron_serotinum Phoradendron_flavescens,the traditional mistletoe of Christmas in America: grows on deciduous trees and can severely weaken the host plant
+700,American_mistletoe Arceuthobium_pusillum,small herb with scalelike leaves on reddish-brown stems and berrylike fruits; parasitic on spruce and larch trees
+701,American_mountain_ash Sorbus_americana,a variety of mountain ash
+702,American_oil_palm Elaeis_oleifera,palm of Central and South America
+703,American_organ,a free-reed instrument in which air is drawn in through reeds by suction bellows
+704,American_parasol Lepiota_americana,an agaric with a pallid cap and a stalk that is enlarged near the base
+705,American_pasqueflower Eastern_pasque_flower wild_crocus lion's_beard prairie_anemone blue_tulip American_pulsatilla Pulsatilla_patens Anemone_ludoviciana,short hairy perennial with early spring blue-violet or lilac flowers; North America and Siberia
+706,American_persimmon possumwood Diospyros_virginiana,medium-sized tree of dry woodlands in the southern and eastern United States bearing yellow or orange very astringent fruit that is edible when fully ripe
+707,American_plaice Hippoglossoides_platessoides,large American food fish
+708,American_plan,a hotel plan that includes three meals daily
+709,American_quaking_aspen American_aspen Populus_tremuloides,slender aspen native to North America
+710,American_raspberry Rubus_strigosus Rubus_idaeus_strigosus,red raspberry of North America
+711,American_rattlebox Crotalaria_sagitallis,tropical American annual herb having an inflated pod in which the ripe seeds rattle
+712,American_red_elder red-berried_elder stinking_elder Sambucus_pubens,common North American shrub or small tree
+713,American_red_plum August_plum goose_plum Prunus_americana,wild plum trees of eastern and central North America having red-orange fruit with yellow flesh
+714,American_red_squirrel spruce_squirrel red_squirrel Sciurus_hudsonicus Tamiasciurus_hudsonicus,of northern United States and Canada
+715,American_redstart redstart Setophaga_ruticilla,flycatching warbler of eastern North America the male having bright orange on sides and wings and tail
+716,American_rock_brake American_parsley_fern Cryptogramma_acrostichoides,rock-inhabiting fern of northern North America growing in massive tufts and having fronds resembling parsley
+717,American_saddle_horse,a high-stepping horse originating in Kentucky
+718,American_shrew_mole Neurotrichus_gibbsii,greyish-black shrew mole of the United States and Canada
+719,American_smelt rainbow_smelt,common smelt of eastern North America and Alaska
+720,American_smokewood chittamwood Cotinus_americanus Cotinus_obovatus,shrubby tree of southern United States having large plumes of feathery flowers resembling puffs of smoke
+721,American_smooth_dogfish Mustelus_canis,found along the Atlantic coast of the Americas
+722,American_spikenard petty_morel life-of-man Aralia_racemosa,unarmed woody rhizomatous perennial plant distinguished from wild sarsaparilla by more aromatic roots and panicled umbels; southeastern North America to Mexico
+723,American_star_grass Hypoxis_hirsuta,perennial star grass of North America
+724,American_state,one of the 50 states of the United States
+725,American_sycamore American_plane buttonwood Platanus_occidentalis,very large spreading plane tree of eastern and central North America to Mexico
+726,American_toad Bufo_americanus,common toad of America
+727,American_turkey_oak turkey_oak Quercus_laevis,small slow-growing deciduous shrubby tree of dry sandy barrens of southeastern United States having leaves with bristle-tipped lobes resembling turkey's toes
+728,American_twinflower Linnaea_borealis_americana,similar to the twinflower of northern Europe and Asia
+729,American_water_ouzel Cinclus_mexicanus,a water ouzel of western North America
+730,American_water_shrew Sorex_palustris,water shrew of North America
+731,American_water_spaniel,breed of medium-sized spaniels originating in America having chocolate or liver-colored curly coat
+732,American_watercress mountain_watercress Cardamine_rotundifolia,mat-forming perennial found in cold springs of the eastern United States
+733,Belle_Isle_cress early_winter_cress land_cress American_cress American_watercress Barbarea_verna Barbarea_praecox,of southwestern Europe; cultivated in Florida
+734,American_white_birch paper_birch paperbark_birch canoe_birch Betula_cordifolia Betula_papyrifera,small American birch with peeling white bark often worked into e.g. baskets or toy canoes
+735,American_white_oak Quercus_alba,large slow-growing deciduous tree of the eastern United States having stout spreading branches and leaves with usually 7 rounded lobes; yields strong and durable hard wood
+736,American_white_pine eastern_white_pine weymouth_pine Pinus_strobus,tall-growing pine of eastern North America; bark is brown with longitudinal fissures when mature; valued as a timber tree
+737,American_widgeon baldpate Anas_americana,a widgeon the male of which has a white crown
+738,American_wistaria American_wisteria Wisteria_frutescens,an eastern United States native resembling the cultivated Japanese wisteria having pale purple-lilac flowers
+739,American_woodcock woodcock_snipe Philohela_minor,small long-billed woodcock; prized as a game bird
+740,American_wormseed Mexican_tea Spanish_tea wormseed Chenopodium_ambrosioides,rank-smelling tropical American pigweed
+741,Americana,any artifact (such as books or furniture or art) that is distinctive of America
+742,Americanism,loyalty to the USA and its institutions
+743,Americanism,an expression that is characteristic of English as spoken by Americans
+744,Americanism,a custom that is peculiar to the United States or its citizens
+745,Americanization Americanisation,assimilation into American culture
+746,Amerind Amerindian_language American-Indian_language American_Indian Indian,any of the languages spoken by Amerindians
+747,Amerindian Native_American,any member of the peoples living in North or South America before the Europeans arrived
+748,Amhara,a member of the Semitic speaking people of northern Ethiopia
+749,Amharic Ethiopian_language,the dominant and official language of Ethiopia; a Semitic language much influenced by the Cushitic language with which Amhara have been in close contact
+750,Amia genus_Amia,type genus of the Amiidae
+751,Amianthum genus_Amianthum,one species: fly poison; sometimes placed in family Melanthiaceae
+752,Amiidae family_Amiidae,only the bowfins
+753,Amish,an American follower of the Mennonite religion
+754,Amish_sect,an orthodox Anabaptist sect separated from the Mennonites in late 17th century; settled chiefly in southeastern Pennsylvania
+755,Amman capital_of_Jordan,the capital and largest city of Jordan
+756,Ammodytes genus_Ammodytes,type genus of the Ammodytidae
+757,Ammodytidae family_Ammodytidae,sand lances
+758,Ammotragus genus_Ammotragus,genus of wild sheep
+759,Amniota,higher vertebrates (reptiles  birds and mammals) possessing an amnion during development
+760,Amoebida order_Amoebida Amoebina order_Amoebina,the animal order including amoebas
+761,Amontillado,pale medium-dry sherry from Spain
+762,Amos,a Hebrew shepherd and minor prophet
+763,Amos Book_of_Amos,an Old Testament book telling Amos's prophecies
+764,Amphibolips genus_Amphibolips,cynipid gall wasps  especially causing oak-apple galls
+765,Amphicarpaea genus_Amphicarpaea Amphicarpa genus_Amphicarpa,very small genus of twining vines of North America and Asia: hog peanut
+766,Amphineura subclass_Amphineura,a class of Gastropoda
+767,Amphioxidae family_Amphioxidae Branchiostomidae family_Branchiostomidae,lancelets
+768,Amphipoda order_Amphipoda,small flat-bodied semiterrestrial crustaceans: whale lice; sand-hoppers; skeleton shrimp
+769,Amphiprion genus_Amphiprion,damsel fishes
+770,amphisbaena,(classical mythology) a serpent with a head at each end of its body
+771,Amphisbaena genus_Amphisbaena Amphisbaenia genus_Amphisbaenia,type genus of the Amphisbaenidae
+772,Amphisbaenidae family_Amphisbaenidae,worm lizards
+773,Amphiumidae family_Amphiumidae,congo snakes
+774,Amsinckia genus_Amsinckia,rough annual herbs of Europe and the Americas: fiddlenecks
+775,Amsonia genus_Amsonia,genus of herbs and subshrubs with milky juice and showy bluish flowers; Europe to Asia Minor to Japan and North America
+776,Amsterdam Dutch_capital capital_of_The_Netherlands,an industrial center and the nominal capital of the Netherlands; center of the diamond-cutting industry; seat of an important stock exchange; known for its canals and art museum
+777,Amundsen Roald_Amundsen,Norwegian explorer who was the first to traverse the Northwest Passage and in 1911 the first to reach the South Pole (1872-1928)
+778,Amur Amur_River Heilong_Jiang Heilong,an Asian river between China and Russia; flows into the Sea of Okhotsk
+779,Amur_privet Ligustrum_amurense,eastern Asian shrub cultivated especially for its persistent foliage
+780,Amygdalaceae family_Amygdalaceae,used in former classifications for plum and peach and almond trees which are now usually classified as members of the genus Prunus
+781,Amygdalus genus_Amygdalus,used in former classifications for peach and almond trees which are now included in genus Prunus
+782,Ana,mother of the ancient Irish gods; sometimes identified with Danu
+783,ana,a collection of anecdotes about a person or place
+784,Anabantidae family_Anabantidae,small freshwater spiny-finned fishes of Africa and southern Asia
+785,Anabaptism,belief in: the primacy of the Bible; baptism of believers not infants; complete separation of church and state
+786,Anabaptist,adherent of Anabaptism
+787,Anabaptist_denomination,a Protestant sect denying infant baptism and baptising only believers
+788,Anabas genus_Anabas,the type genus of the family Anabantidae; small fish that resemble perch
+789,Anabrus genus_Anabrus,a genus of Tettigoniidae
+790,Anacanthini order_Anacanthini,at least partially equivalent to the order Gadiformes in some classifications
+791,Anacardiaceae family_Anacardiaceae sumac_family,the cashew family; trees and shrubs and vines having resinous (sometimes poisonous) juice; includes cashew and mango and pistachio and poison ivy and sumac
+792,Anacardium genus_Anacardium,type genus of the Anacardiaceae: cashew
+793,Anacyclus genus_Anacyclus,Spanish pellitory
+794,Anadenanthera genus_Anadenanthera,2 species of tropical American shrubs or trees
+795,Anadenanthera_colubrina Piptadenia_macrocarpa,Brazilian shrub having twice-pinnate leaves and small spicate flowers followed by flat or irregularly torulose pods; sometimes placed in genus Piptadenia
+796,Anagallis genus_Anagallis,chiefly Old World herbs
+797,Anagasta genus_Anagasta,moth whose larvae are flour moths
+798,Anagyris genus_Anagyris,very small genus of shrubs of southern Europe having backward curving seed pods
+799,Anaheim,a city in southern California (southeast of Los Angeles); site of Disneyland
+800,Ananas genus_Ananas,a genus of tropical American plants have sword-shaped leaves and a fleshy compound fruits composed of the fruits of several flowers (such as pineapples)
+801,pineapple ananas,large sweet fleshy tropical fruit with a terminal tuft of stiff leaves; widely cultivated
+802,Ananias,a habitual liar (after a New Testament character who was struck dead for lying)
+803,Anaphalis genus_Anaphalis,genus of herbs of north temperate regions having hoary leaves: pearly everlasting
+804,Anapsida subclass_Anapsida,oldest known reptiles: turtles; extinct Permian forms
+805,Anarhichadidae family_Anarhichadidae,wolffishes
+806,Anarhichas genus_Anarhichas,type genus of the Anarhichadidae
+807,Anas genus_Anas,type genus of the Anatidae: freshwater ducks
+808,Anasa genus_Anasa,squash bugs
+809,Anasazi,a Native American who lived in what is now southern Colorado and Utah and northern Arizona and New Mexico and who built cliff dwellings
+810,Anaspida order_Anaspida,extinct order of jawless vertebrates
+811,Anastatica genus_Anastatica,one species: rose of Jericho; resurrection plant
+812,Anastomus genus_Anastomus,openbills
+813,Anatidae family_Anatidae,swimming birds having heavy short-legged bodies and bills with a horny tip: swans; geese; ducks
+814,Anatolian Anatolian_language,an extinct branch of the Indo-European family of languages known from inscriptions and important in the reconstruction of Proto-Indo European
+815,Anaxagoras,a presocratic Athenian philosopher who maintained that everything is composed of very small particles that were arranged by some eternal intelligence (500-428 BC)
+816,Anaximander,a presocratic Greek philosopher and student of Thales who believed the universal substance to be infinity rather than something resembling ordinary objects (611-547 BC)
+817,Anaximenes,a presocratic Greek philosopher and associate of Anaximander who believed that all things are made of air in different degrees of density (6th century BC)
+818,anchorage,the condition of being secured to a base; "the plant needs a firm anchorage"; "the mother provides emotional anchorage for the entire family"
+819,anchorage,a fee for anchoring
+820,Anchorage,a city in south central Alaska; "Anchorage is the largest city in Alaska"
+821,anchorage anchorage_ground,place for vessels to anchor
+822,anchorage,the act of anchoring
+823,Ancient_Greek,the Greek language prior to the Roman Empire
+824,Ancohuma,a mountain peak in the Andes in Bolivia (20 960 feet high)
+825,Ancylidae family_Ancylidae,freshwater gastropod
+826,Ancylostomatidae family_Ancylostomatidae,hookworms
+827,Ancylus genus_Ancylus,type genus of the family Ancylidae: river limpet
+828,Andalusia Andalucia,a region in southern Spain on the Atlantic and the Mediterranean; formerly a center of Moorish civilization
+829,Andaman_Sea,part of the Bay of Bengal west of the Malay Peninsula
+830,Andean_condor Vultur_gryphus,large vulture of the high Andes having black plumage and white neck ruff
+831,Andersen Hans_Christian_Andersen,a Danish author remembered for his fairy stories (1805-1875)
+832,Anderson Sherwood_Anderson,United States author whose works were frequently autobiographical (1876-1941)
+833,Anderson Philip_Anderson Philip_Warren_Anderson Phil_Anderson,United States physicist who studied the electronic structure of magnetic and disordered systems (1923-)
+834,Anderson Maxwell_Anderson,United States dramatist (1888-1959)
+835,Anderson Marian_Anderson,United States contralto noted for her performance of spirituals (1902-1993)
+836,Anderson Carl_Anderson Carl_David_Anderson,United States physicist who discovered antimatter in the form of an antielectron that is called the positron (1905-1991)
+837,Andes,a mountain range in South America running 5000 miles along the Pacific coast
+838,Andhra_Pradesh,a state of southeastern India on the Bay of Bengal
+839,Andira genus_Andira,small genus of evergreen trees of tropical America and western Africa
+840,Andorra Principality_of_Andorra,a small republic in the eastern Pyrenees between Spain and France
+841,Andorran,a native or inhabitant of Andorra
+842,Andreaea genus_Andreaea,brown or blackish Alpine mosses having a dehiscent capsule with 4 longitudinal slits
+843,Andreaeales order_Andreaeales,comprises a single genus: Andreaea
+844,Andrenidae family_Andrenidae,a large family of solitary short-tongued bees most of which burrow in the ground
+845,Andrew Saint_Andrew St._Andrew Saint_Andrew_the_Apostle,(New Testament) disciple of Jesus; brother of Peter; patron saint of Scotland
+846,Andrews Roy_Chapman_Andrews,United States naturalist who contributed to paleontology and geology (1884-1960)
+847,Andricus genus_Andricus,cynipid gall wasps  chiefly affecting oaks
+848,andromeda Japanese_andromeda lily-of-the-valley_tree Pieris_japonica,broad-leaved evergreen Asiatic shrub with glossy leaves and drooping clusters of white flowers
+849,andromeda,any of several shrubs of the genus Andromeda having leathery leaves and clusters of small flowers
+850,Andromeda,(Greek mythology) an Ethiopian princess and daughter of Cassiopeia; she was fastened to a rock and exposed to a sea monster that was sent by Poseidon  but she was rescued by Perseus and became his wife
+851,Andromeda,a constellation in the northern hemisphere between Cassiopeia and Pegasus; contains the Andromeda galaxy
+852,Andromeda_galaxy,a spiral galaxy in the constellation of Andromeda that is visible to the naked eye
+853,Andropogon genus_Andropogon,tall annual or perennial grasses with spikelike racemes; warm regions
+854,Andvari,(Norse mythology) a dwarf who possessed a treasure that was stolen by Loki
+855,Aneides genus_Aneides,climbing salamanders
+856,anemia anaemia,a deficiency of red blood cells
+857,anemia anaemia,a lack of vitality
+858,Anemia genus_Anemia,genus of terrestrial or lithophytic ferns having pinnatifid fronds; chiefly of tropical America
+859,Anemonella genus_Anemonella,one species: rue anemone
+860,Anemopsis genus_Anemopsis,one species: yerba mansa
+861,Anethum genus_Anethum,dill
+862,Angara Angara_River Tunguska Upper_Tunguska,a river in southeastern Siberia that flows northwest from Lake Baikal to become a tributary of the Yenisei River
+863,Angas,a Chadic language spoken in northern Nigeria and closely related to Hausa
+864,angel,spiritual being attendant upon God
+865,saint holy_man holy_person angel,person of exceptional holiness
+866,angel backer,invests in a theatrical production
+867,Angel Angel_Falls,the highest waterfall; has more than one leap; flow varies seasonally
+868,angelus_bell angelus,the sound of a bell rung in Roman Catholic churches to announce the time when the Angelus should be recited
+869,Angelus,a prayer said 3 times a day by Roman Catholics in memory of the Annunciation
+870,Angevin Angevine,a resident of Anjou
+871,Angiospermae class_Angiospermae Magnoliophyta division_Magnoliophyta Anthophyta division_Anthophyta,comprising flowering plants that produce seeds enclosed in an ovary; in some systems considered a class (Angiospermae) and in others a division (Magnoliophyta or Anthophyta)
+872,angle,the space between two lines or planes that intersect; the inclination of one line to another; measured in degrees or radians
+873,slant angle,a biased way of looking at or presenting something
+874,Angle,a member of a Germanic people who conquered England and merged with the Saxons and Jutes to become Anglo-Saxons
+875,Anglesey Anglesey_Island Anglesea Anglesea_Island Mona,an island northwest of Wales
+876,Anglia,the Latin name for England
+877,Anglian,one of the major dialects of Old English
+878,Anglican,a Protestant who is a follower of Anglicanism
+879,Anglican_Catholic,a member of the Anglican Church who emphasizes its Catholic character
+880,Anglican_Church Anglican_Communion Church_of_England,the national church of England (and all other churches in other countries that share its beliefs); has its see in Canterbury and the sovereign as its temporal head
+881,Anglicanism,the faith and doctrine and practice of the Anglican Church
+882,Anglicism Briticism Britishism,an expression that is limited to English as spoken by Englishmen (especially as contrasted with American English)
+883,Anglicism Britishism,a custom that is peculiar to England or its citizens
+884,Anglicization Anglicisation,the act of anglicizing; making English in appearance
+885,Anglo-American,an American who was born in England or whose ancestors were English
+886,Anglo-Catholicism High_Anglicanism,a doctrine and practice within the Church of England emphasizing the Catholic tradition
+887,Anglo-French Anglo-Norman,the French (Norman) language used in medieval England
+888,Anglo-Indian,a person of English citizenship born or living in India
+889,Anglo-Saxon,a native or inhabitant of England prior to the Norman conquest
+890,Anglo-Saxon,a person of Anglo-Saxon (especially British) descent whose native tongue is English and whose culture is strongly influenced by English culture as in WASP for `White Anglo-Saxon Protestant'; "in the ninth century the Vikings began raiding the Anglo-Saxons in Britain"; "his ancestors were not just British  they were Anglo-Saxons"
+891,Old_English Anglo-Saxon,English prior to about 1100
+892,Anglo-Saxon_deity,(Anglo-Saxon mythology) a deity worshipped by the Anglo-Saxons
+893,Anglomania,an excessive enthusiasm for all things English
+894,Anglophilia,admiration for England and English customs
+895,Anglophobia,dislike (or fear) of England and English customs
+896,Angola Republic_of_Angola,a republic in southwestern Africa on the Atlantic Ocean; achieved independence from Portugal in 1975 and was the scene of civil war until 1990
+897,Angolan,a native or inhabitant of Angola
+898,Angolan_monetary_unit,monetary unit in Angola
+899,Angolese,a member of the Bantu tribes resident in Angola
+900,Ankara Turkish_capital capital_of_Turkey Angora,the capital of Turkey; located in west-central Turkey; it was formerly known as Angora and is the home of Angora goats
+901,Angora Angora_goat,a domestic breed of goat raised for its long silky hair which is the true mohair
+902,Angora Angora_rabbit,domestic breed of rabbit with long white silky hair
+903,Angora Angora_cat,a long-haired breed of cat similar to the Persian cat
+904,Angostura_Bridge,a suspension bridge across the Orinoco River at Cuidad Bolivar
+905,Angst,an acute but unspecific feeling of anxiety; usually reserved for philosophical anxiety about the world or about personal freedom
+906,Anguidae family_Anguidae,alligator lizards
+907,Anguilla,a British colony in the West Indies
+908,Anguilla genus_Anguilla,type genus of the Anguillidae: eels
+909,Anguillan,a native or inhabitant of the island of Anguilla in the West Indies
+910,Anguillidae family_Anguillidae,eels that live in fresh water as adults but return to the sea to spawn
+911,Anguilliformes order_Anguilliformes order_Apodes,elongate fishes with pelvic fins and girdle absent or reduced
+912,Anguillula genus_Anguillula Turbatrix genus_Turbatrix,a genus of Cephalobidae
+913,Anguis genus_Anguis,type genus of the Anguidae: blindworms
+914,Angus_Og Aengus Oengus Angus,Celtic god of love and beauty; patron deity of young men and women
+915,Anhima genus_Anhima,type genus of the Anhimidae; horned screamers
+916,Anhimidae family_Anhimidae,screamers
+917,Anhingidae family_Anhingidae,snakebirds
+918,Anigozanthus genus_Anigozanthus,genus of monocotyledonous plants with curious woolly flowers on sturdy stems above a fan of sword-shaped leaves; includes kangaroo's paw and Australian sword lily; sometimes placed in family Amaryllidaceae
+919,Animalia kingdom_Animalia animal_kingdom,taxonomic kingdom comprising all living or extinct animals
+920,Anisoptera suborder_Anisoptera,dragonflies
+921,Anisotremus genus_Anisotremus,a genus of Haemulidae
+922,Anjou,a former province of western France in the Loire valley
+923,anjou,a pear with firm flesh and a green skin
+924,Ann_Arbor,a city in southern Michigan near Detroit; site of the University of Michigan
+925,Annaba,a port city of northeastern Algeria near the Tunisian border
+926,Annapolis capital_of_Maryland,state capital of Maryland; site of the United States Naval Academy
+927,Parvati Anapurna Annapurna,wife of Siva and a benevolent aspect of Devi: goddess of plenty
+928,Annapurna Anapurna,a mountain in the Himalayas in Nepal (26 500 feet high)
+929,Anne,Queen of England and Scotland and Ireland; daughter if James II and the last of the Stuart monarchs; in 1707 she was the last English ruler to exercise the royal veto over parliament (1665-1714)
+930,Annelida phylum_Annelida,segmented worms: earthworms; lugworms; leeches
+931,Anniellidae family_Anniellidae,legless lizards
+932,Annona genus_Annona,type genus of the Annonaceae; tropical American trees or shrubs
+933,Annonaceae family_Annonaceae custard-apple_family,chiefly tropical trees or shrubs
+934,Annunciation Lady_Day Annunciation_Day March_25,a festival commemorating the announcement of the Incarnation by the angel Gabriel to the Virgin Mary; a quarter day in England  Wales  and Ireland
+935,Annunciation,(Christianity) the announcement to the Virgin Mary by the angel Gabriel of the incarnation of Christ
+936,announcement proclamation annunciation declaration,a formal public statement; "the government made an announcement about changes in the drug war"; "a declaration of independence"
+937,Annwfn Annwn,(Welsh mythology) the other world; land of fairies
+938,Anobiidae family_Anobiidae,deathwatch beetles
+939,Anodonta genus_Anodonta,thin-shelled freshwater mussels
+940,Anoectochilus genus_Anoectochilus,genus of delicate Asiatic orchids
+941,Anogramma genus_Anogramma,a genus of ferns belonging to the family Pteridaceae
+942,Anolis genus_Anolis,New World chameleons
+943,Anomala genus_Anomala,genus of beetles whose grubs feed mainly on roots of plants; includes several pests of cultivated grasses
+944,Anomalopidae family_Anomalopidae,a family of fish including: flashlight fishes
+945,nominal_aphasia anomic_aphasia anomia amnesic_aphasia amnestic_aphasia,inability to name objects or to recognize written or spoken names of objects
+946,Anomia genus_Anomia,type genus of the family Anomiidae: saddle oysters
+947,Anomiidae family_Anomiidae,saddle oysters
+948,Anopheles genus_Anopheles,malaria mosquitoes; distinguished by the adult's head-downward stance and absence of breathing tubes in the larvae
+949,Anoplura order_Anoplura,sucking lice
+950,Anostraca order_Anostraca,small aquatic crustaceans lacking a carapace: fairy shrimps; brine shrimps
+951,Anouilh Jean_Anouilh,French dramatist noted for his reinterpretations of Greek myths (1910-1987)
+952,Ansar_al_Islam Ansar_al-Islam Supporters_of_Islam,a radical Islamic group of terrorists in the Iraqi part of Kurdistan who oppose an independent secular nation as advocated by the United States; some members fought with the Taliban and al-Qaeda forces in Afghanistan; said to receive financial support from Saddam Hussein
+953,Anselm Saint_Anselm St._Anselm,an Italian who was a Benedictine monk; was archbishop of Canterbury from 1093 to 1109; one of the founders of scholasticism; best known for his proof of the existence of God
+954,Anser genus_Anser,typical geese
+955,Anseres suborder_Anseres,used in some especially older classifications; coextensive with the family Anatidae
+956,Anseriformes order_Anseriformes,ducks; geese; swans; screamers
+957,Anserinae subfamily_Anserinae,used in some classifications for the swans
+958,Anshar,the Babylonian father of the gods; identified with Assyrian Ashur; in Sumerian the name signifies `the totality of the upper world'
+959,Antananarivo capital_of_Madagascar,the capital and largest city of Madagascar
+960,Antarctic Antarctic_Zone South_Frigid_Zone,the region around the south pole: Antarctica and surrounding waters
+961,Antarctic_Circle,a line of latitude north of the south pole
+962,Antarctic_Ocean,the southern waters surrounding Antarctica
+963,Antarctic_Peninsula Palmer_Peninsula,a large peninsula of Antarctica that extends some 1200 miles north toward South America; separates the Weddell Sea from the South Pacific
+964,Antarctica Antarctic_continent,an extremely cold continent at the south pole almost entirely below the Antarctic Circle; covered by an ice cap up to 13 000 feet deep; "Antarctica is twice the size of Australia"
+965,Antares,the brightest star in Scorpius
+966,Antedon genus_Antedon,a genus of echinoderms of the family Antedonidae
+967,Antedonidae family_Antedonidae,feather stars
+968,Antennaria genus_Antennaria,small woolly perennial herbs having small whitish discoid flowers surrounded by a ring of club-shaped bristles
+969,Antennariidae family_Antennariidae,frogfishes; tropical spiny-finned marine fishes having large nearly vertical mouths; related to toadfishes and anglers
+970,Anthemis genus_Anthemis,dog fennel
+971,Antheraea genus_Antheraea,large moths whose larvae produce silk of high quality
+972,Anthericum genus_Anthericum,genus of Old World (mainly African) perennial herbs; sometimes placed in family Asphodelaceae
+973,Antheropeas genus_Antheropeas,small genus of North American herbs often included in genus Eriophyllum
+974,Anthidium genus_Anthidium,potter bees
+975,Anthoceropsida class_Anthoceropsida,hornworts: in some classification systems included in the class Hepaticopsida
+976,Anthoceros genus_Anthoceros,hornworts
+977,Anthocerotaceae family_Anthocerotaceae,hornworts
+978,Anthocerotales order_Anthocerotales,hornworts; liverworts having a thalloid gametophyte; in some classification systems included in the class Hepaticopsida
+979,Anthonomus genus_Anthonomus,weevils destructive of cultivated plants
+980,Antony Anthony Mark_Antony Mark_Anthony Antonius Marcus_Antonius,Roman general under Julius Caesar in the Gallic wars; repudiated his wife for the Egyptian queen Cleopatra; they were defeated by Octavian at Actium (83-30 BC)
+981,Anthony Susan_Anthony Susan_B._Anthony Susan_Brownell_Anthony,United States suffragist (1820-1906)
+982,Anthozoa class_Anthozoa Actinozoa class_Actinozoa,no alternation of generations the medusoid phase being entirely suppressed: sea anemones; corals
+983,Anthriscus genus_Anthriscus,chervil: of Europe  North Africa and Asia
+984,Anthropoidea suborder_Anthropoidea,monkeys; apes; hominids
+985,Anthus genus_Anthus,pipits
+986,Anthyllis genus_Anthyllis,genus of Mediterranean herbs and shrubs
+987,Anti-Masonic_Party,a former political party in the United States; founded in 1825 in opposition to Freemasonry in public affairs
+988,Antichrist,(Christianity) the adversary of Christ (or Christianity) mentioned in the New Testament; the Antichrist will rule the world until overthrown by the Second Coming of Christ
+989,Antido,an artificial language related to Ido
+990,Antidorcas genus_Antidorcas,springboks
+991,Antigone,(Greek mythology) the daughter of King Oedipus who disobeyed her father and was condemned to death
+992,Antigonia genus_Antigonia,a genus of fish in the family Caproidae
+993,Antigonus Antigonus_Cyclops Monophthalmos,a general of Alexander the Great and king of Macedonia; lost one eye; killed in a battle at Ipsus (382-301 BC)
+994,Antigua,the largest of the islands comprising Antigua and Barbuda
+995,Antigua_and_Barbuda,a country in the northern Leeward Islands
+996,Antiguan,a native or inhabitant of Antigua
+997,Antilles,a group of islands in the West Indies
+998,Antilocapra genus_Antilocapra,type and sole genus of the Antilocapridae comprising one species
+999,Antilocapridae family_Antilocapridae,comprising only the pronghorns
+1000,Antilope genus_Antilope,blackbucks
