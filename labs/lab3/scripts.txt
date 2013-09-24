@@ -1,0 +1,14 @@
+# Synonyms Data
+cat synsets.txt | awk '{split($0, lines, ","); split(lines[2], syn, " "); for (word in syn) print syn[word] "," lines[3]}'
+
+# World Cup Data
+cat worldcup.txt | sed 's/\[\[\([0-9]*\)[^]]*\]\]/\1/g; s/.*fb|\([A-Za-z]*\)}}/\1/g; s/<sup><\/sup>//g; s/|bgcolor[^|]*//g; s/|align=center[^|]*//g' > worldcup_preclean.txt
+cat worldcup_preclean.txt | sed 's/[)(]//g;' | sed 's/|[[:digit:]]*//g;' | sed 's/\â//g' | awk \
+	'/^[[:upper:]]/ { nation=$1; rank=1 } \
+	/^[[:space:]][0-9]/ {
+		split($0, years, ","); \
+		for (year in years) {
+			print nation "," years[year] ", " rank \
+		} \
+		rank++; \
+	} '
