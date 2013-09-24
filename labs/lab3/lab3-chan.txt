@@ -3,6 +3,32 @@ Jeff Chan
 ## Data Wrangler
 synsets.txt
 1. See synsets_wrangler.py for script. Output is at synsets_clean.csv
-2. Using synsets_unique.py to process the cleaned data, the number of unique words is 118290.
+2. Using synsets_unique.py to find the answer, the number of unique words is 118290.
 
 worldcup.txt
+1. See worldcup_wrangler.py for script. Output is at worldcup_clean.csv
+2. Number of times each nation has won:
+	5x: Brazil
+	4x: Italy
+	3x: Germany
+	2x: Argentina, Uruguary
+	1x: France, England, Spain
+
+
+## Other Questions
+1. See scripts.txt
+2. Data Wrangler's user interface is its main advantage. It allows novice users to quickly
+   clean and visualize data. In addition, Data Wrangler has suggestions for cleaning the
+   data which speeds up the process. However, this only works with certain data sets.
+   Sed and awk, on the other hand, provide power users flexibility and finer control.
+   I personally found the command line tools to be easier to use, but that's mainly because
+   the Data Wrangler's web app was buggy and crashed often.
+3. I ended up repeatedly exporting Data Wrangler's script for backup purposes as well as to
+   get a better sense of what the operations were doing. So a few suggestions I would make:
+   1) ability to better export/import a script
+   2) ability to save (at least temporarily) the current set of operations
+   3) better description of what the operations are doing
+
+
+## Feedback
+Wrangler web app is really buggy.
