@@ -1,8 +1,8 @@
-
+Jeff Chan
 
 ## Data Wrangler
 synsets.txt
 1. See synsets_wrangler.py for script. Output is at synsets_clean.csv
 2. Using synsets_unique.py to process the cleaned data, the number of unique words is 118290.
 
-
+worldcup.txt

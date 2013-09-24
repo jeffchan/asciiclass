@@ -1,5 +1,3 @@
-! Team !! Titles !! Runners-up !! Third place !! Fourth place !! Top 4 <br/> finishes
-|-
 |bgcolor=#FFF68F|{{fb|BRA}}
 |bgcolor=#FFF68F|5 ([[1958 FIFA World Cup|1958]], [[1962 FIFA World Cup|1962]], [[1970 FIFA World Cup|1970]], [[1994 FIFA World Cup|1994]], [[2002 FIFA World Cup|2002]])
 |2 ([[1950 FIFA World Cup|1950]][[#1|*]], [[1998 FIFA World Cup|1998]])
@@ -54,7 +52,7 @@
 |align=center| —
 |align=center| —
 |1 ([[1950 FIFA World Cup|1950]])
-|2 
+|2
 |-
 |{{fb|NED}}
 |align=center| —
@@ -168,6 +166,3 @@
 |1 ([[2002 FIFA World Cup|2002]][[#1|*]])
 |1
 |-
-:<div id="1">''<nowiki>*</nowiki> = hosts''
-:<div id="2">''<nowiki>^</nowiki> = includes results [[List of men's national association football teams#Former_national_football_teams|representing West Germany between 1954 and 1990]]''</div>
-:<div id="3">''<sup><nowiki>#</nowiki></sup> = [[List of men's national association football teams#Former_national_football_teams|states that have since split into two or more independent nations]]''<ref name="successor"/></div>
