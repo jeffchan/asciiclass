@@ -6,12 +6,8 @@ if len(sys.argv) < 2:
 
 with open(sys.argv[1], 'rb') as csvfile:
 	reader = csv.reader(csvfile)
-	table = {}
+	words = set()
 	for row in reader:
-		word = row[0]
-		if word in table :
-			table[word].append(row[1])
-		else :
-			table[word] = [row[1]]
+		words.add(row[0])
 
-print len(table.keys())
+print len(words)
