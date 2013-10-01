@@ -63,11 +63,9 @@ def build_dict(entries, key):
 			dictionary[entry[key]] = [entry]
 	return dictionary
 
-# punctuation = '().,?!:;&-_\''
 def ignore(s):
 	s = re.sub(r'[\s()\.,?!:;&\-\_\']', '', s)
 	return s.lower()
-
 
 def compare_phone(s1, s2):
 	if s1 == None or s2 == None:
