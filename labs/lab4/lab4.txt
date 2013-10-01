@@ -1,0 +1,14 @@
+6.885 Lab 4
+Tanya Liu (tanyaliu@mit.edu)
+Jeff Chan (jeffchan@mit.edu)
+
+1. Tanya, tanyaliu@mit.edu
+2. Jeff Chan, Tanya Liu
+3.
+	- Our entity resolution technique first focused on separating the venues by postal_code. Within each unique postal_code, we first compared by the name of the venue stripped of all punctuation, spacings, and capitalization. If the names did not directly match, we checked to see if the levenshtein distance between the two names were <= 2. If there was a match, we moved on to the next pair and took note of the ids that we just matched. Otherwise, we stripped the phone numbers of spacing and punctuation and compared to see if they matched. If they did, we took note of the ids that we just matched. Otherwise, we'd move on to the next pair. We did this for all of the postal_codes.
+	Our results were as follows:
+	PREC=0.988130563798 RECALL=0.92243767313 F1=0.954154727794
+
+	- The most important features that powered our technique were "name", "phone", and "postal_code".
+
+	- We avoided pairwise comparison of all venues by first sorting the venues by postal_code. This created two dictionaries (one per data set) where the key was the postal_code and the value per key was the list all of the venues with that particular postal_code. From here, we could just compare within the postal_code lists to see if there were matches. We also took care to compare the entries of a particular postal_code with the list of venues with no postal_code in the opposing set, as we wanted to take care of the case where a venue had a postal_code in one set but not the other. To prevent the repetition of venues with no postal_code, we kept track of the ids of venues (from both sets of data) that had already been matched and did not rematch them.
