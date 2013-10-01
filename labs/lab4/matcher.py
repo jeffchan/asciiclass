@@ -5,10 +5,13 @@ import re
 
 print 'USAGE: python matcher.py [train|test] [truth.csv]'
 
-if len(sys.argv[1]) == 2:
+if len(sys.argv) >= 2:
 	name = sys.argv[1]
 else :
 	name = 'test'
+
+print 'Reading from locu_'+name+'.json and foursquare_'+name+'.json'
+print 'Output to matches_'+name+'.csv'
 
 file_a = open('locu_'+name+'.json', 'r+')
 file_b = open('foursquare_'+name+'.json', 'r+')
