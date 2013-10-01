@@ -75,6 +75,15 @@ def compare_phone(s1, s2):
 		s2 = ignore(s2)
 		return s1 != '' and s2 != '' and s1 == s2
 
+def compare_address(s1, s2):
+	if s1 == '' or s2 == '':
+		return False
+	else:
+		# s1_match = re.match(r'([\d]+)\s?', s1)
+		# s2_match = re.match(r'([\d]+)\s?', s2)
+		# return s1_match != None and s2_match != None and s1_match.group(1) == s2_match.group(1)
+		return ignore(s1) == ignore(s2)
+
 def edit_distance(s1, s2):
 	# ignore punctuation and capitalization
 	s1 = ignore(s1)
@@ -141,7 +150,6 @@ for postal in all_postal:
 				matched.add(entry_a['id'])
 				matched.add(entry_b['id'])
 				break
-
 
 if len(sys.argv) == 3:
 	truth = {}
