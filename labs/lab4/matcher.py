@@ -1,18 +1,18 @@
 import json
 import sys
 import csv
+import re
 
-if len(sys.argv) < 5:
-	exit('USAGE: python matcher.py set_a.json set_b.json truth.csv output.csv')
+print 'USAGE: python matcher.py [train|test] [truth.csv]'
 
-file_a = open(sys.argv[1], 'r+')
-file_b = open(sys.argv[2], 'r+')
+if len(sys.argv[1]) == 2:
+	name = sys.argv[1]
+else :
+	name = 'test'
 
-truth = {}
-with open(sys.argv[3], 'rb') as file_truth:
-	reader = csv.reader(file_truth, delimiter=',')
-	for row in reader:
-		truth[row[0]] = row[1]
+file_a = open('locu_'+name+'.json', 'r+')
+file_b = open('foursquare_'+name+'.json', 'r+')
+
 
 set_a = json.load(file_a)
 set_b = json.load(file_b)
@@ -60,8 +60,19 @@ def build_dict(entries, key):
 			dictionary[entry[key]] = [entry]
 	return dictionary
 
+# punctuation = '().,?!:;&-_\''
 def ignore(s):
-	return s
+	s = re.sub(r'[\s()\.,?!:;&\-\_\']', '', s)
+	return s.lower()
+
+
+def compare_phone(s1, s2):
+	if s1 == None or s2 == None:
+		return False
+	else:
+		s1 = ignore(s1)
+		s2 = ignore(s2)
+		return s1 != '' and s2 != '' and s1 == s2
 
 def edit_distance(s1, s2):
 	# ignore punctuation and capitalization
@@ -97,7 +108,6 @@ b_by_postal = build_dict(set_b, 'postal_code')
 
 all_postal = set(a_by_postal.keys() + b_by_postal.keys())
 
-results = {}
 matched = set()
 matches = []
 for postal in all_postal:
@@ -114,16 +124,34 @@ for postal in all_postal:
 	else:
 		entries_b = b_by_postal['']
 
-	results[postal] = 0
 	for entry_a in entries_a:
 		for entry_b in entries_b:
-			if edit_distance(entry_a['name'], entry_b['name']) == 0 and entry_a['id'] not in matched and entry_b['id'] not in matched:
-				results[postal] += 1
+			if entry_a['id'] in matched and entry_b['id'] in matched:
+				break
+
+			if ignore(entry_a['name']) == ignore(entry_b['name']) or edit_distance(entry_a['name'], entry_b['name']) <= 2:
 				matches.append((entry_a['id'], entry_b['id']))
 				matched.add(entry_a['id'])
 				matched.add(entry_b['id'])
 				break
 
-# print sum([results[result] for result in results])
+			if compare_phone(entry_a['phone'], entry_b['phone']):
+				matches.append((entry_a['id'], entry_b['id']))
+				matched.add(entry_a['id'])
+				matched.add(entry_b['id'])
+				break
 
-print Scorer(matches, truth)
+
+if len(sys.argv) == 3:
+	truth = {}
+	with open(sys.argv[2], 'rb') as file_truth:
+		reader = csv.reader(file_truth, delimiter=',')
+		for row in reader:
+			truth[row[0]] = row[1]
+	print Scorer(matches, truth)
+
+with open('matches_'+name+'.csv', 'wb') as csvfile:
+	writer = csv.writer(csvfile, delimiter=',')
+	writer.writerow(['locu_id', 'foursquare_id'])
+	for (a, b) in matches:
+		writer.writerow([a, b])
