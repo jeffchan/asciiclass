@@ -1,0 +1,49 @@
+Tzu-HSien Jeff Chan
+6.885 Lab 5
+
+1. List the top TF-IDF terms for Enron's key people:
+Kenneth Lay:
+{"tf-idf": 89.694587717054517, "word": "enron"}
+{"tf-idf": 92.534097109822724, "word": "committee"}
+{"tf-idf": 97.651056108785767, "word": "company"}
+{"tf-idf": 98.358737536249592, "word": "cindy"}
+{"tf-idf": 99.093016426443484, "word": "visions"}
+{"tf-idf": 99.271151226487788, "word": "continue"}
+{"tf-idf": 114.43536799419108, "word": "enron's"}
+{"tf-idf": 114.74647821014416, "word": "graduates"}
+{"tf-idf": 144.48629129351923, "word": "kenneth"}
+{"tf-idf": 285.6340723157187, "word": "program"}
+
+Jeffrey Skilling:
+{"tf-idf": 166.77389832964872, "word": "erica"}
+{"tf-idf": 169.52258790968096, "word": "macerich"}
+{"tf-idf": 186.83641407617981, "word": "joannie"}
+{"tf-idf": 188.35843101075665, "word": "trakya"}
+{"tf-idf": 192.0236340850239, "word": "skilling"}
+{"tf-idf": 205.97626793736612, "word": "globe"}
+{"tf-idf": 210.88406255374815, "word": "turkish"}
+{"tf-idf": 234.73987637817885, "word": "murdock"}
+{"tf-idf": 250.29976390649597, "word": "sherri"}
+{"tf-idf": 435.19809080025402, "word": "jeff"}
+
+Andrew Fastow:
+{"tf-idf": 31.713085851299102, "word": "andy"}
+{"tf-idf": 32.142725677755273, "word": "approval"}
+{"tf-idf": 32.226707598508391, "word": "victor"}
+{"tf-idf": 33.2284488814241, "word": "creditex"}
+{"tf-idf": 37.99381553560832, "word": "sunil"}
+{"tf-idf": 40.258194861851543, "word": "highstar"}
+{"tf-idf": 42.935667241465133, "word": "transaction"}
+{"tf-idf": 99.699551906090051, "word": "vagner"}
+{"tf-idf": 149.54932785913508, "word": "asep"}
+{"tf-idf": 179.65704590017634, "word": "petrobras"}
+
+Rebecca Mark-Jusbache: None found.
+Stephen Cooper: None found.
+
+2. Approach:
+I first calculated the IDF per term by counting the number of emails per term, using the provided number of total emails. Then I calculated the overall TF-IDF for each sender. This was done by grouping by (sender, term) in the map phase and summing the IDF per (sender,term) pair in the reduce phase.Then the TF-IDF is simply the total IDF multiplied by the TF.
+
+3. Using MapReduce for PageRank
+We can use MapReduce to compute PageRank by first computing the number of outlinks from a sender, which can be done by mapping to (sender, 1). Then, we can do the same to compute the number of inlinks for a sender.
+
