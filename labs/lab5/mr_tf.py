@@ -22,9 +22,8 @@ class MRTf(MRJob):
         idf_parts = emr.get_s3_keys('s3://6885public/jeffchan/term-idfs/')
         self.word_to_idf = dict()
         for part in idf_parts:
-            string = part.get_contents_as_string()
-            io = StringIO.StringIO(string)
-            for line in io:
+            json = part.get_contents_as_string()
+            for line in StringIO.StringIO(json):
                 pair = json.loads(line)
                 self.word_to_idf[pair['term']] = pair['idf']
 
