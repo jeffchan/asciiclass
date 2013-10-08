@@ -30,7 +30,7 @@ class MRTf(MRJob):
 
     def reducer(self, term, howmany):
         tf = sum(howmany)
-        word, sender = term
+        sender,word = term
         idf = self.word_to_idf[word]
         tf_idf = tf * idf
         yield sender, {'word': word, 'tf-idf': tf_idf}
