@@ -48,8 +48,8 @@ def term_sender_pairs(email):
 # Output: [(term, (sender, freq) ...]
 def sender_term_freq(term_pair):
 	term, pairs = term_pair
-  tf = single_term_freq(pairs)
-  return map(lambda x: (term, x), tf.items())
+	tf = single_term_freq(pairs)
+	return map(lambda x: (term, x), tf.items())
 
 def consolidate_emails(pair):
 	letter,email_pairs = pair
@@ -99,4 +99,4 @@ tfidf = sender_tf.join(per_term_idf, 500).map(lambda x:{'sender': x[1][0][0], 't
 
 output = tfidf.collect()
 for x in output:
-  print x
+	print x
