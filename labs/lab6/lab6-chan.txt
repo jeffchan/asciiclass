@@ -1,0 +1,21 @@
+Tzu-Hsien Jeff Chan
+Lab 6
+
+# Question 1
+To disabmiguate the emails, I took the following steps:
+1) Get a list of unique sender emails from the corpus
+2) Sort by the first letter of names (where name is the stuff before the @ symbol)
+3) Create a master dictionary of consolidated emails
+Compared to MapReduce, Spark enabled the broadcasting of consolidated emails to all the nodes without intermediary steps, which makes the entire process a lot more cleaner.
+
+# Question 2
+I found Spark to be simpler to use than EMR because the code is more procedural than the code for EMR, which means it's simpler to think about and iterate on. The main advantage of Spark I found was the ability to easily perform map/reduce functions without much complexity.
+
+# Question 3
+EMR is useful if you want direct access to the map-phase and the reduce-phase. Spark is lacking in the sense that Spark has abstracted many things away in its own API.
+
+# Question 4
+For me Spark's biggest limitation was having to write lots of code to do simple occurence sums because of the way the API is set up. Spark did not have the abilitity to use dictionaries as keys which meant tuples everywhere!
+
+# Question 5
+Spark provides nice functions like join() which allows you to easily iterate over aggregate functions for PageRank. With EMR, PageRank's implementation is more convoluted if you want to iteratively update the scores.

@@ -66,7 +66,7 @@ def consolidate_emails(pair):
 		for match in matches:
 			matching_emails.add(name_to_email[match])
 		consolidated.append((email, matching_emails))
-	
+
 	return map(lambda x: x, consolidated)
 
 
@@ -94,8 +94,14 @@ term_sender_pairing = json_lay.flatMap(term_sender_pairs).groupBy(lambda x: x['t
 ### Find sender-term freq ###
 sender_tf = term_sender_pairing.flatMap(sender_term_freq).cache()
 
+def tfidf_map(sender_tf):
+	(term, sender_count_freq) = sender_tf
+	(sender_count, freq) = sender_count_freq
+	(sender,count) = sender_count
+	return {'sender': sender 'term': term, 'tf-idf':count*freq}
+
 ### Find TF-IDF ###
-tfidf = sender_tf.join(per_term_idf, 500).map(lambda x:{'sender': x[1][0][0], 'term':x[0], 'tf-idf':x[1][0][1]*x[1][1]})
+tfidf = sender_tf.join(per_term_idf, 500).map(tfidf_map)
 
 output = tfidf.collect()
 for x in output:
