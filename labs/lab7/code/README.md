@@ -1,6 +1,6 @@
 The following directions will compile the example in src/test/
 
-    javac -cp lib/giraph.jar:lib/hadoop-core.jar src/test/*.java -d ./
+    javac -cp lib/giraph.jar:lib/hadoop-core.jar src/test/*.java -d ./ 
     cp lib/giraph.jar giraph.jar
     # add the compiled class file to giraph.jar
     jar uf giraph.jar test/*.class
@@ -25,4 +25,4 @@ To run it on the livejournal dataset (assuming the sampled dataset
      -eip livesmall.txt  \
      -of org.apache.giraph.io.formats.IdWithValueTextOutputFormat \
      -op shortestpathsOutput  \
-     -w
+     -w 
