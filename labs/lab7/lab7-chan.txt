@@ -1,0 +1,32 @@
+Jeff Tzu-Hsien Chan
+6.885 Lab 7
+
+# Vertex IDs of top 10 PageRank
+2914    7.547779076981391E-6
+8737    7.419932017858626E-6
+27909   7.321416139765122E-6
+2678    7.003049504878565E-6
+1860    6.859365630851753E-6
+67784   6.572578405484424E-6
+15050   6.455547528651224E-6
+1220    4.9925503159314835E-6
+214538  4.322758036762656E-6
+4494    4.026747292423063E-6
+
+# Compare PageRank implementation in Hadoop vs Spark vs Giraph
+Using Giraph to implement PageRank was much more straightforward than using Hadoop or Spark
+mainly because PageRank is a graph algorithm we can easily parse the input vertices/edges
+data and run graph operations on it, rather than having to transform the data into another
+data structure. As a result of the abstraction Giraph offers, the code to calculate PageRank
+was simpler.
+
+# Compare usability
+For processing any sort of graph data, Giraph is definitely more usable and it would be my
+preferred choice. However, it is not necessarily the right choice for all data. There are
+certain tasks that people convert into a graph problem and solve, and that is not necessarily
+a better option because Giraph does not offer that much flexibility compared to vanilla Hadoop. 
+
+# Pros v Cons for Vertex-Centric Model
+Pro: Good for graph data -- easier to rationalize in terms of graph computation steps 
+Con: Not very much flexibility. Limited data input.
+
