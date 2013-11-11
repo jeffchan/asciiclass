@@ -20,7 +20,7 @@ Why did Hadoop grow so fast?
     * access to data
     * access to compute power
     * access to fault tolerance computing
-    * lesson == paperwork really sucks
+    * lesson == paperwork really sucks 
 
 Problem: everything has to be cast as MapReduce
 
@@ -66,7 +66,7 @@ Three proposals to get a better version
   - YARN (Yet Another Resource Negotiator)---Hadoop 2.x, production at Yahoo!, released into general availability yesterday
   - Mesos (2011, from Berkeley, open-sourced and running at Twitter)
   - Omega (2013, Google paper)
-
+  
 What are applications that would run on a clusterOS?
 
 * Giraph
@@ -74,13 +74,13 @@ What are applications that would run on a clusterOS?
 * Storm (stream processing from twitter)
 * Dryad (workflow system)
 * Reef (light weight containerization.  Think of JVM as an application specific "VM")
-* Your own thang
+* Your own thang  
 
 
 ### Yarn
 
 
-What is it?
+What is it? 
 
   - New version of HDFS, but not much to write home about
   - YARN offers operating system-like API on top of HDFS: get access to resources and run whatever you want on them.
@@ -95,8 +95,8 @@ What is it?
 Components
 
 * Resource manager
-* Scheduler: makes sure there is fair resource scheduling
-* App Master is a specialized manager for an instance of your YARN application (e.g., spark app master).
+* Scheduler: makes sure there is fair resource scheduling 
+* App Master is a specialized manager for an instance of your YARN application (e.g., spark app master).  
     * An instance runs for every job
     * think query optimizer if you have a DB application
 * Tasks are controlled by the appmaster
@@ -105,7 +105,7 @@ Resource manager is decoupled from running the applications
 
 App Master can request more resources after the fact.  If this is the case, we need a couple things:
 
-* an abstraction for a bundle of resources (2GB ram, 25% of disk throughput, 3 cores, etc…)
+* an abstraction for a bundle of resources (2GB ram, 25% of disk throughput, 3 cores, etc…) 
 * Ability to move tasks around
     * Need to save and load task state (so system can move container to another machine)
 
@@ -115,19 +115,19 @@ App Master can request more resources after the fact.  If this is the case, we n
   - Rather than one app master per job, it runs one resource manager per framework.
     * allows optimization across framework specific jobs
     * more complex to write a scheduler
-    * Mesos needs less information about the frameworks/jobs
+    * Mesos needs less information about the frameworks/jobs  
   - A Mesos scheduler round-robins between the resource managers, ensuring they have the most resources available for them at the same time.
   - Benefits: easier to run things like long-running services (e.g., GMail) on top of it---doesn't assume you're running computation frameworks.
 * locks resources for each framework
-
+  
 
 
 ### Omega
 
   - Rather than having a single scheduler, you give the global cluster state to each framework.
   - Frameworks respond to you and ask you to allocate parts of this cluster to them.  Resolve conflicts on their behalf---wasn't sure how.
-
-
+  
+  
 
 ### Huge benefit of these systems:
 

@@ -5,7 +5,7 @@ How do you program in the Pregel model?
 * Executes in supersteps
     * vertices run in lock-step (superstep to superstep)
 * vertex-centric
-    * per-vertex "compute" functions
+    * per-vertex "compute" functions    
     * update vertex state
     * can read or send messages to neighbors
     * read messages from previous super step
@@ -19,7 +19,7 @@ How do you program in the Pregel model?
 
 ### PageRank example
 
-    vertex_compute(messages)
+    vertex_compute(messages) 
       sum = sum(messages)
       v = .15 / totalNumVertices + .85 * sum
       this.setValue(v)  // set vertex's state to new pagerank value
@@ -29,16 +29,16 @@ How do you program in the Pregel model?
       else
         voteToStop()
 
-Why does the `< MAX_STEPS` line exist?  What happens if a subset of your neighbors decide to stop?
+Why does the `< MAX_STEPS` line exist?  What happens if a subset of your neighbors decide to stop?  
 
 * This kind of sucks. See GraphLab below for advances
 
 
 ### Running on >1 machines
 
-Pregel needs to store the vertices (and their edges) across multiple machines.
+Pregel needs to store the vertices (and their edges) across multiple machines.  
 
-* Pregel by default places vertices randomly (hash partitioning).
+* Pregel by default places vertices randomly (hash partitioning).  
 * GraphLab/subsequent systems talk about smartly placing vertices e.g., by cluster
 
 Most systems assume the whole graph sits in memory
@@ -47,8 +47,8 @@ Most systems assume the whole graph sits in memory
 
 Naive implementation
 
-* Let's say we have one master and every node sends heartbeats.
-* We can detect failure but how to recover?
+* Let's say we have one master and every node sends heartbeats.  
+* We can detect failure but how to recover? 
 * Could write everything to HDFS on every step and restore on recovery
     * rollback whole cluster to last checkpoint
 
@@ -77,7 +77,7 @@ How to query?
         newmsgs = select UDF(oldmsgs, n)
         delete from msgs where dst = n
         insert newmsgs into msgs table
-
+        
 Does this even make sense?  Some cons (but how many of them are _fundamental_?)
 
 * RDBMSes incur high cost of consistency.  Pregel is more relaxed
@@ -111,5 +111,6 @@ But!! Things run on multiple machines, so what if a neighbor changes its state a
 
 It's still in the air what's the best!!
 
+    
 
-
+    
