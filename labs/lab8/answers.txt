@@ -1,0 +1,16 @@
+Jeff Tzu-Hsien Chan
+6.885 Lab 8
+
+1. What is the message in your visualization and what techniques did you use to illustrate it?
+The visualization I created is a heatmap. It tells the story of where Bostonian lives and work,
+and how that changes over the course of the week. I implemented a selector to allow users to see
+this progression.
+
+2. If you used interaction or animation, how does it facilitate the user's understanding?
+I implemented a weekday select to help the user understand the taxi pickup patterns
+over the course of the week.
+
+3. What format is the data that is used by the visualization? Is it the raw data or did you
+need to compute some summary or derived data product?
+The heatmap uses only the lat/long. I preprocessed the data so that it generated a count
+summary by weekdays of the lat/long's with some rounding.
